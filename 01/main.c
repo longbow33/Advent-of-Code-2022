@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
+
 int main(){
 
     FILE *file;
@@ -16,11 +17,9 @@ int main(){
     int value = atoi(line);
     int value_idx = 0;
 
-    while(*file!=EOF){
-        fscanf(file,"%[^\n]",line);
+    while(fgets(line,10,file)){
         value_idx++;
         values[value_idx] = atoi(line);
-
         printf("Current line: %d\n",values[value_idx]);
     }
         
