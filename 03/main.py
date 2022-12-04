@@ -9,10 +9,11 @@ def main():
 def find_duplicate(line):
     firstHalf = line[:len(line)//2]
     secondHalf = line[len(line)//2:]
-    for char in line:
+    letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" 
+    for char in firstHalf:
         if char in set(secondHalf):
             print(char)
-            return
+            return letters.index(char)+1
            
 def prioritize_duplicate(char):
     pass
