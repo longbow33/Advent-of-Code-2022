@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <ctype.h>
 
 #define MAX_LINE_LEN 64
 
@@ -18,10 +19,8 @@ int main(){
 	int res = 0;
 	while (fgets(line,MAX_LINE_LEN,file)){
 		comm = getCommonItem(line);
-		printf("%s",line);
-		printf("common item: %c\n",comm);
-		res+= scoreItem(comm);
-		printf("\n");
+		res += scoreItem(comm);
+		
 	}
 	printf("RESULT: %d\n",res);
 	return 0;
@@ -40,16 +39,6 @@ char getCommonItem(char line[]){
 	// first half: 0-len//2-1
 	// second half: len//2-len
 	
-	printf("LINE LENGTH COMPARISON\n");
-	for (int i = 0;i<(len/2);++i){
-		printf("%c, ",line[i]);
-	}
-	printf("\n");
-	for (int i = len/2;i<len;++i){
-		printf("%c, ",line[i]);
-	}
-	printf("\n");
-	
 	for (int i = 0;i<(len/2)-1;++i){
 		//printf("%d\t%d\n",line[i],line[i+len/2]);
 		//printf("%d\t%d\n",'a','A');
@@ -63,25 +52,8 @@ char getCommonItem(char line[]){
 }
 
 int scoreItem(char comm){
-	char alphabet[52];
-	for (int i = 0; i<26;++i){
-		alphabet[i] = 'a'+i;
-		alphabet[i+26] = 'A'+i;
-	}
-	//printf("lowercase: %d-%d\tuppercase: %d-%d\n",'a','z','A','Z');
-	if ((comm>=97)*(comm<=122)){
-		//is lowercase
-		comm-= 96;
-		printf("lowercase: %d\n",comm);
-	} else if ((comm>=65)*(comm<=90)){
-		//is uppercase
-		comm-=(65-27);
-		printf("uppercase: %d\n",comm);
-	}
-	
-	return comm;
-	for (int i = 0; i<52;++i){
-		printf("(%c/%d), ",alphabet[i],i+1);
-	}
-
+	printf("%c is lower : %d\n", comm, islower(comm));
+	int prio_lower_a = 1;
+	int prio_upper_a = 27;
+	return islower(comm) ? comm-'a'+ prio_lower_a : comm - 'A' + prio_upper_a;
 }
