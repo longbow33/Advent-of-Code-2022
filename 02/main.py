@@ -1,38 +1,68 @@
 def part1(lines):
 
     sol = 0
+    sol2 = 0
     for line in lines:
         if line is '':
             continue
         him = line[0]
         me = line[2]
         print(me+" "+him)
-        if him == 'A':
-            if me == 'X':
-                sol+=4
-            elif me == 'Y':
-                sol+= 8
-            elif me == 'Z':
-                sol+= 3
-
-        elif him == 'B':
-            if me == 'X':
-                sol+= 1
-            elif me == 'Y':
-                sol+= 5
-            elif me == 'Z':
-                sol+= 9
-
-        elif him == 'C':
-            if me == 'X':
-                sol+= 7
-            elif me == 'Y':
-                sol+= 2
-            elif me == 'Z':
-                sol+= 6
+        sol += getPoints(him,me)
+        sol2+= getFixedOutcome(him,me)
+    sol = [sol,sol2]
     return sol
 
+def getPoints(opp, me):
+        if opp == 'A':
+            if me == 'X':
+                return 4
+            elif me == 'Y':
+                return 8
+            elif me == 'Z':
+                return 3
 
+        elif opp == 'B':
+            if me == 'X':
+                return 1
+            elif me == 'Y':
+                return 5
+            elif me == 'Z':
+                return 9
+
+        elif opp == 'C':
+            if me == 'X':
+                return 7
+            elif me == 'Y':
+                return 2
+            elif me == 'Z':
+                return 6
+
+def getFixedOutcome(opp, me):
+
+        if opp == 'A':
+            if me == 'X':
+                return getPoints(opp,'Z')
+            elif me == 'Y':
+                return getPoints(opp,'X')
+            elif me == 'Z':
+                return getPoints(opp,'Y')
+
+        elif opp == 'B':
+            if me == 'X':
+                return getPoints(opp,'X')
+            elif me == 'Y':
+                return getPoints(opp,'Y')
+            elif me == 'Z':
+                return getPoints(opp,'Z')
+
+        elif opp == 'C':
+            if me == 'X':
+                return getPoints(opp,'Y')
+            elif me == 'Y':
+                return getPoints(opp,'Z')
+            elif me == 'Z':
+                return getPoints(opp,'X')
 
 if __name__ == "__main__":
 

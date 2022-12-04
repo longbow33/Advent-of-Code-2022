@@ -1,0 +1,3579 @@
+gtZDjBcmpcDgpZcmmbgtdtqmCGVCGGsvhCFCCqvmCMMM
+common item: m
+lowercase: 97-122	uppercase: 65-90
+lowercase: 13
+
+JrhfzfLTNfJhPnhQnfzHfCFFQFSGvMFCGQFsQSMSVs
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+TllTRrfNNlfzwhtZBZgtRDBp
+common item: R
+lowercase: 97-122	uppercase: 65-90
+uppercase: 44
+
+vMdwjZdjwjvjdTZZvCcQMGnQMQcbcgLLCL
+common item: M
+lowercase: 97-122	uppercase: 65-90
+uppercase: 39
+
+rsVhfmssPWzDVGCLJSbCgPLSQG
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+lfWNDHDgfszFRTFtwwNjdv
+common item: N
+lowercase: 97-122	uppercase: 65-90
+uppercase: 40
+
+GLPqVqdVGCLCdczjMjzMfzld
+common item: d
+lowercase: 97-122	uppercase: 65-90
+lowercase: 4
+
+JnWQvJDmvWBtlMzhrzfHQgcz
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+tDtJDDDDtWRRmBwJwWtpPRsGCGScLPGSqspNCS
+common item: R
+lowercase: 97-122	uppercase: 65-90
+uppercase: 44
+
+ChVzZzfNDzNJmBQfjjJfmH
+common item: f
+lowercase: 97-122	uppercase: 65-90
+lowercase: 6
+
+MrTMPMncGMJvPPvPWTbrMWvgmBgQwgdpwmdpdpjwpHQcdw
+common item: c
+lowercase: 97-122	uppercase: 65-90
+lowercase: 3
+
+SPvvvbqrFvMvZzJzsFVzVJNV
+common item: F
+lowercase: 97-122	uppercase: 65-90
+uppercase: 32
+
+mvBbvMFqbMMVVmtCBHpDdDPTDspdNWPDVP
+common item: V
+lowercase: 97-122	uppercase: 65-90
+uppercase: 48
+
+zjSfftcQtwtSfQSpNDppsNsjPNdRPP
+common item: j
+lowercase: 97-122	uppercase: 65-90
+lowercase: 10
+
+fgfStJShrgvvCLLv
+common item: g
+lowercase: 97-122	uppercase: 65-90
+lowercase: 7
+
+GmFnNNwbFFbhQQGQnGwwwfBgnMMqVDBZVVBMfMVzVz
+common item: n
+lowercase: 97-122	uppercase: 65-90
+lowercase: 14
+
+vWzRRHzTHcgfZDVfBgfH
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+SSTvrvRcPpcvjFGwNGbNpbwQwz
+common item: p
+lowercase: 97-122	uppercase: 65-90
+lowercase: 16
+
+FFgbZZFZgFmpstLgmbtzqNrwVPlMPlSWWrMPNp
+common item: p
+lowercase: 97-122	uppercase: 65-90
+lowercase: 16
+
+QQhTvjhcvjjvTcTcTfCcSRwwWzwzPMrzWNNWVVhwrwWq
+common item: h
+lowercase: 97-122	uppercase: 65-90
+lowercase: 8
+
+GRQBfCRnGGTcDvBfGvffCCjnFZtFFgStJLbLHbFLJZdgmd
+common item: 
+lowercase: 97-122	uppercase: 65-90
+
+pppdjcrMMRDJLJdRcwRDrwssqHGGDHsZHHsvBVtvmVHV
+common item: D
+lowercase: 97-122	uppercase: 65-90
+uppercase: 30
+
+nlCFWzGzzQFlSlhGWnPzFbSsBZmsssmVVmsBvnHqvNVqqm
+common item: n
+lowercase: 97-122	uppercase: 65-90
+lowercase: 14
+
+lFTTTCSQSTrdGJJLJG
+common item: 	
+lowercase: 97-122	uppercase: 65-90
+
+jpsGMgsmghQwQsMmhlQshjtTNTRTnFqRWnnqRfFnnt
+common item: 
+lowercase: 97-122	uppercase: 65-90
+
+SLBCHrcvZHbSvSZrSvSWnfvVNvftVlFRTqnRTq
+common item: v
+lowercase: 97-122	uppercase: 65-90
+lowercase: 22
+
+JrzdZbBcHBCrrlHrrSsMgmGpJPDPQmpgQgPG
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+cmcZHgwgMgHSLmtjLfWPNNrWBNfffp
+common item: L
+lowercase: 97-122	uppercase: 65-90
+uppercase: 38
+
+JTqGTsClHslVVRVCVGVJGnBrjdnnrdBNvjPNBNBrWvnW
+common item: n
+lowercase: 97-122	uppercase: 65-90
+lowercase: 14
+
+VVlQlqTFJlzzlsVGsRCZMthHDbwbFhgcbwHchg
+common item: F
+lowercase: 97-122	uppercase: 65-90
+uppercase: 32
+
+qgZjgjjbssqgsjlNqjhTtdrfQdTdWLLnDVfHtHWd
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+zcGMBDDzcLnztfQQQz
+common item: z
+lowercase: 97-122	uppercase: 65-90
+lowercase: 26
+
+JSppJcBScMmMFFBRCpRCMmGlggvjhbhlNlglwbslCZjhDZ
+common item: C
+lowercase: 97-122	uppercase: 65-90
+uppercase: 29
+
+hvhmqcqwwcTBvvwQnRQnRnTRFzFzQz
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+jWLPPtPsgMtpdLMLWllpgLLQFQhFJjnVrzFrVFhnRzJJrJ
+common item: j
+lowercase: 97-122	uppercase: 65-90
+lowercase: 10
+
+WPWffgtSdspdhSMdlSdtfBbHmSvqbNBCCmcBmcvcCH
+common item: S
+lowercase: 97-122	uppercase: 65-90
+uppercase: 45
+
+frVcrVcggfSZJfbbJvBd
+common item: f
+lowercase: 97-122	uppercase: 65-90
+lowercase: 6
+
+hwWQnwhWQmQmThTSsdvvSMBTBzcb
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+wGnFFCGlQwntGtCtwntwDmFwRgLrHqNRqqcNNgRrHHLggCjp
+common item: C
+lowercase: 97-122	uppercase: 65-90
+uppercase: 29
+
+wRSwwHDMsRGHvNBNjTgvjgJD
+common item: D
+lowercase: 97-122	uppercase: 65-90
+uppercase: 30
+
+mcLcFCclWQWQpPQWVQcQcvvNJjrNBTrvgJgBvTRvCg
+common item: C
+lowercase: 97-122	uppercase: 65-90
+uppercase: 29
+
+VFPbQLchQLSRfbMtdHGH
+common item: b
+lowercase: 97-122	uppercase: 65-90
+lowercase: 2
+
+lfVrhnlRRqrJZVDJdHSWCvJCJSbj
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+BFsgcgMNNQgSvbfCff
+common item: g
+lowercase: 97-122	uppercase: 65-90
+lowercase: 7
+
+ffNPcMtzqPlnmRGh
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+ZJplFmRJmWRJRWmTJCvtTtnLCtndCqtqnr
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+SQsVPQHBQZNSNSLCfSLrcLcrrr
+common item: S
+lowercase: 97-122	uppercase: 65-90
+uppercase: 45
+
+VMjPjbNMDsVHmRllmZpZWmjh
+common item: j
+lowercase: 97-122	uppercase: 65-90
+lowercase: 10
+
+LcTLRbJhhdhLJbbclfVvfWQVWFRWFFfq
+common item: R
+lowercase: 97-122	uppercase: 65-90
+uppercase: 44
+
+rZNttSNvtgsPPFsqBFPWQF
+common item: s
+lowercase: 97-122	uppercase: 65-90
+lowercase: 19
+
+HGCSmHrrwNnHGMLpDhbzzpmJJv
+common item: m
+lowercase: 97-122	uppercase: 65-90
+lowercase: 13
+
+VlSWzRtWSJqWdfhdqBdF
+common item: W
+lowercase: 97-122	uppercase: 65-90
+uppercase: 49
+
+mTDHsmmmcHpgrCgCrTsMMtqfsFNsZqfdMZMNbd
+common item: s
+lowercase: 97-122	uppercase: 65-90
+lowercase: 19
+
+TDcpvrpHCprCpHrmcQvTHgTQzSnLJnPPJlLzwJtRVJwLjJ
+common item: 
+lowercase: 97-122	uppercase: 65-90
+
+vZSWZJZJFvhZldZHdvvlphZSNGNnmzwCPNHNHGNrrRHGCPmP
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+bjfgcbjTQTFQBnGRRBCBNwBnCz
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+csqscsbssQLsgQcLgLQLQTQpFdlhdvdZdpZWhJplShWWtq
+common item: q
+lowercase: 97-122	uppercase: 65-90
+lowercase: 17
+
+QgQvHnfflfBwQCfwlfglnQQccNcRqGGcjmcsGjddwdzsJc
+common item: w
+lowercase: 97-122	uppercase: 65-90
+lowercase: 23
+
+DhZbTLZTDMVTsRzsqsRjszTz
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+FSZVtMLMMWbSgqSvPQlnpH
+common item: S
+lowercase: 97-122	uppercase: 65-90
+uppercase: 45
+
+MMPllnnBmfSHvBgCLf
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+whZjGRJdjcNjjhRjCvgCfbSvCZLHfpZs
+common item: Z
+lowercase: 97-122	uppercase: 65-90
+uppercase: 52
+
+RRWGWwNRWwhwclmrgFmngFPMWm
+common item: W
+lowercase: 97-122	uppercase: 65-90
+uppercase: 49
+
+VVHQGDGDGsdRrmZBQZRCVHZCNcSTTPMwwvTTwSSNqBqvgMvN
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+nfhdLfjFnJpblLbJjWhtnjWPScNnwSTPTPqTvgngNNvSvS
+common item: n
+lowercase: 97-122	uppercase: 65-90
+lowercase: 14
+
+fpWljtpLjflfLfzlhZGQHZQVddHrrQRDRz
+common item: z
+lowercase: 97-122	uppercase: 65-90
+lowercase: 26
+
+VCHCjwCwMSZSqQzhhQqcWZJD
+common item: Z
+lowercase: 97-122	uppercase: 65-90
+uppercase: 52
+
+GGGrFFgNRNNgmfnTdgmWQpczvPvQPWQJGDpzzc
+common item: G
+lowercase: 97-122	uppercase: 65-90
+uppercase: 33
+
+lgTttRTgmfNRntrTTngrCbjCwJCHjLBBHlMVMsbB
+common item: l
+lowercase: 97-122	uppercase: 65-90
+lowercase: 12
+
+szgPPlCblggVszhLmzvcvNrqpjNqmrqqpGvG
+common item: m
+lowercase: 97-122	uppercase: 65-90
+lowercase: 13
+
+wBQDtBfQDtFvLjjctLqTMr
+common item: t
+lowercase: 97-122	uppercase: 65-90
+lowercase: 20
+
+ZFWWdDLQFwSfDSBSQQBWnnnQVdbhgRVbsHzsshbClzzCVggb
+common item: d
+lowercase: 97-122	uppercase: 65-90
+lowercase: 4
+
+VpVsHVcqcMVMMNHpsspstbMqzBztJZTBBfJfzTvZfvWJWSTv
+common item: t
+lowercase: 97-122	uppercase: 65-90
+lowercase: 20
+
+mDDQgCQQQHdrwgSvZSmJJZvWfJJf
+common item: m
+lowercase: 97-122	uppercase: 65-90
+lowercase: 13
+
+drCjggDlPdgrlbjNcnhcHsbpsj
+common item: j
+lowercase: 97-122	uppercase: 65-90
+lowercase: 10
+
+cNNDRRpDcNcTpppsqHLQGLfRLvHzLH
+common item: R
+lowercase: 97-122	uppercase: 65-90
+uppercase: 44
+
+lFntJjtbFFlsmsjvnGqHWLfhfqzzQh
+common item: n
+lowercase: 97-122	uppercase: 65-90
+lowercase: 14
+
+sgPbjBJtPgbPJblblJgbgbwdBTwDCwpwrdZZVcCcDppc
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+GGclMjLnnjCMchcChLMLcnnzRFJDZJSRSzzzzDSShszPRS
+common item: h
+lowercase: 97-122	uppercase: 65-90
+lowercase: 8
+
+VHgFQgwVwfNNpQVfHzQsPPPJDbmZbJDJbS
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+HfNVWdHVvgHgVWVNppNWVHwTlvBFcClBCjcTLTlBnnLrTL
+common item: v
+lowercase: 97-122	uppercase: 65-90
+lowercase: 22
+
+GTLdlJhffQwDRvWLrp
+common item: L
+lowercase: 97-122	uppercase: 65-90
+uppercase: 38
+
+HVZVNjjsPqzNjNNmNgDWMrRQpWvWRHrDHBWp
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+VCqVzjPjCpVqCVPCsbctcnblcGlTbGnlbFJf
+common item: b
+lowercase: 97-122	uppercase: 65-90
+lowercase: 2
+
+flHdfdBNdZcflBMjqMjBNfZQhvJbGvqvsshJQsJCJDWvvD
+common item: q
+lowercase: 97-122	uppercase: 65-90
+lowercase: 17
+
+gFTzRRpzRTwbgbLmtCvsJhWsChrWCrtWCC
+common item: t
+lowercase: 97-122	uppercase: 65-90
+lowercase: 20
+
+VzzzFbVRLPznmRBffPNBHNMdlZfl
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+FFFMwCqJFFmrRwgnbLrL
+common item: w
+lowercase: 97-122	uppercase: 65-90
+lowercase: 23
+
+GpjGpQHQpfjdjDRnLrbrRQmJzzgg
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+BphfhDcNcHNvPBvSqJMWJS
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+NndbWpDBNbjvWLZqWsWQ
+common item: W
+lowercase: 97-122	uppercase: 65-90
+uppercase: 49
+
+JPFFTSPfgcMgftQQGjvTmsGqzssG
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+gPgcfcVFgcHqSqVhbBCHlpbbpDlhDD
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+FSdfWFTTBnjsDCjsmrrT
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+pQzLRVLppLGcQjqbmVDJsChCvCbVsm
+common item: V
+lowercase: 97-122	uppercase: 65-90
+uppercase: 48
+
+qHLRGqqZzGjLqBNMFdnHlNlBFN
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+DjqbfBTchDjqqCjjCTWNTbdzSVzGZQGBwZnQnVwpSSnQ
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+ssJlPrtvMsRLrrJQGNZJSpZpGzSG
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+rlFssHsvPRPMvFmtHvtqjhTgjbqhWqNmNqgDNh
+common item: m
+lowercase: 97-122	uppercase: 65-90
+lowercase: 13
+
+vcpnRqwwLLbvvcGpDQWDFSCgMrWWQWRR
+common item: R
+lowercase: 97-122	uppercase: 65-90
+uppercase: 44
+
+gtNfBfllrFlHrlrl
+common item: l
+lowercase: 97-122	uppercase: 65-90
+lowercase: 12
+
+ZPzftBmsNBNBPJBZPmZPNtmPdGLsqbwqpqcndVLLGpVGvqgV
+common item: s
+lowercase: 97-122	uppercase: 65-90
+lowercase: 19
+
+vRBfQqqBQPfbrFvPBvPbhLDVDVDQZVVtZtlWLLLt
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+jcJmFFwnhJVZLWVl
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+sHTcmNNHzncmcjmdsBCrBCPCrBBqCFrqzb
+common item: z
+lowercase: 97-122	uppercase: 65-90
+lowercase: 26
+
+bbZRnGmNnBGGMNRTgCmWWGGSrvSvFHvzFvFQDF
+common item: G
+lowercase: 97-122	uppercase: 65-90
+uppercase: 33
+
+LjwphpdPdLpLJVqfJrQzDzfrvQHSvDcQrQ
+common item: f
+lowercase: 97-122	uppercase: 65-90
+lowercase: 6
+
+DJphdwDsnmbZsTZM
+common item: s
+lowercase: 97-122	uppercase: 65-90
+lowercase: 19
+
+rdNrZNBSzSztnNzWCcNpHlMwlwHWlM
+common item: N
+lowercase: 97-122	uppercase: 65-90
+uppercase: 40
+
+QqLGLJvLjtvQWhgHgchHwHJw
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+GtjTGtDRqvfLRGnrzsmZmfrVFBrV
+common item: f
+lowercase: 97-122	uppercase: 65-90
+lowercase: 6
+
+TdMhZrTTNvwphcLL
+common item: h
+lowercase: 97-122	uppercase: 65-90
+lowercase: 8
+
+WnnmffmDWnWPsPCJNpNcpNVNQp
+common item: 
+lowercase: 97-122	uppercase: 65-90
+
+fsjbWfFFfnmmDsFDnnflSSdczlMdTHTzTTRRBdtT
+common item: l
+lowercase: 97-122	uppercase: 65-90
+lowercase: 12
+
+cMcPcMcwgWJMjWWhFWCCQCmqCFdh
+common item: W
+lowercase: 97-122	uppercase: 65-90
+uppercase: 49
+
+bSLVLblnNnLbVfnsbSbCChSQdChptpdqZrmCmZ
+common item: S
+lowercase: 97-122	uppercase: 65-90
+uppercase: 45
+
+DLGNfnGVDNDHbfzjRcRgqHMRBJPc
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+HVFVlVHjzjjlCJjHjCjnvDrggrgLdqzddMqrzz
+common item: z
+lowercase: 97-122	uppercase: 65-90
+lowercase: 26
+
+SSfBTmtNdLqngvrm
+common item: m
+lowercase: 97-122	uppercase: 65-90
+lowercase: 13
+
+TwnNfPWWpBSBNtTHZCGlPHCQJHZHPV
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+prvccpFQpMcQBwsvssshdwSTPD
+common item: v
+lowercase: 97-122	uppercase: 65-90
+lowercase: 22
+
+qbGHVbNJGqwdPgDrTsDJ
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+fGbGqqlGGHflqLlzZBBrRcrtrZlp
+common item: l
+lowercase: 97-122	uppercase: 65-90
+lowercase: 12
+
+fCSPhltMBmPmbdgd
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+DjvJJscvTsHHDbWzBWsWbdwgLB
+common item: s
+lowercase: 97-122	uppercase: 65-90
+lowercase: 19
+
+VVHDZvTppRcJVFFppvvRJDJqMSGqCtZdthttrnthSZMGCr
+common item: Z
+lowercase: 97-122	uppercase: 65-90
+uppercase: 52
+
+ZcSrSdrhDjBDDCmZdZmZjhwVHwqVVsMwgswVVwMfhw
+common item: h
+lowercase: 97-122	uppercase: 65-90
+lowercase: 8
+
+PNvzTPNbnzcPbGQNJTvqwsWgVgVMMWpQqwgHpp
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+JTPGPTzNttnbRTPlPtNNRlFrFmBcmDljjmBFSCmLZZBr
+common item: l
+lowercase: 97-122	uppercase: 65-90
+lowercase: 12
+
+mNvRRCVMtNRdFNtMtBHHprpHgJgJWwpBnprg
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+LZDDlSLlTslDfbcpJJWndwcscnwr
+common item: s
+lowercase: 97-122	uppercase: 65-90
+lowercase: 19
+
+qdZZGSDhMVRCGtmC
+common item: G
+lowercase: 97-122	uppercase: 65-90
+uppercase: 33
+
+VGFjjgBShGdGzQczcGRG
+common item: G
+lowercase: 97-122	uppercase: 65-90
+uppercase: 33
+
+MppqCDfCMwfLDfvNmrtWstRcMPzRMRsRsPQS
+common item: M
+lowercase: 97-122	uppercase: 65-90
+uppercase: 39
+
+NwDCffLppbqqrqvTBngSbnBHglZllH
+common item: b
+lowercase: 97-122	uppercase: 65-90
+lowercase: 2
+
+vdllJVDzmVDVqvvWvdqJlcWrCsfCsfSSsSJfCSfQQCCbCQ
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+jnTHZPZHMjZhMjTpHgMpgnbNqBstnfrtSSrBSNssCrfN
+common item: n
+lowercase: 97-122	uppercase: 65-90
+lowercase: 14
+
+LHLTFLjTMTTTwjHhpHTcwmDcWVDlvRDmvqwWlW
+common item: w
+lowercase: 97-122	uppercase: 65-90
+lowercase: 23
+
+rqQsSStdmsdLqlNNPGlGlV
+common item: q
+lowercase: 97-122	uppercase: 65-90
+lowercase: 17
+
+FpFpzJNTcHzRHRHlGwFVLFBLFGVvlw
+common item: F
+lowercase: 97-122	uppercase: 65-90
+uppercase: 32
+
+WCCjWRNJTJWhQhbhrbnd
+common item: 
+
+lowercase: 97-122	uppercase: 65-90
+
+jsQjfrRTRwzSsRTgNchlnlhqcnlQmQ
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+dFDtdFBDddHLJpVpHHtVbtHFCWlWlGlNlmGggNqgglmcchqb
+common item: b
+lowercase: 97-122	uppercase: 65-90
+lowercase: 2
+
+dLDHMVdLtBBDBFVJBFthtJHRTvsMSvsTrTSRvPPjPzSwRP
+common item: M
+lowercase: 97-122	uppercase: 65-90
+uppercase: 39
+
+CSPpSrLlrlPrPchLnSlbDbbRttDVhbGRDDJRtD
+common item: h
+lowercase: 97-122	uppercase: 65-90
+lowercase: 8
+
+fzfvmzTMmfsFszsHZsHMHVfwtbjBDDGjtRBjQQGGJb
+common item: f
+lowercase: 97-122	uppercase: 65-90
+lowercase: 6
+
+HmvmTFmqmTsHqzzzzdTsMMScndccdLppnLCSPcCLrVgr
+common item: d
+lowercase: 97-122	uppercase: 65-90
+lowercase: 4
+
+pfMflRnfrnjrpjnFzDpfDMmMLRTLZVTgLsvdZgLLZHSVWZRd
+common item: R
+lowercase: 97-122	uppercase: 65-90
+uppercase: 44
+
+tBGNhwPGcNBBWwZddsSTTPgVLPdT
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+JwthtwbbhNBQhwhbBCrzpnprnWnprlzWlClD
+common item: C
+lowercase: 97-122	uppercase: 65-90
+uppercase: 29
+
+PPnZZjnFNDjlJJhtMddfTTdD
+common item: D
+lowercase: 97-122	uppercase: 65-90
+uppercase: 30
+
+QGLHFWvQJtzfpvCt
+common item: v
+lowercase: 97-122	uppercase: 65-90
+lowercase: 22
+
+swqSmmQWLQwFWLwwRcqNNBnnbgPqbPNbglVZ
+common item: q
+lowercase: 97-122	uppercase: 65-90
+lowercase: 17
+
+GCLSjjZGZhpvGtBgjJlnJDhhJMVDPnJlJP
+common item: h
+lowercase: 97-122	uppercase: 65-90
+lowercase: 8
+
+mNtQQwNzQRHWdJHnPTsddlln
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+zQrfmbtNbcQcrzmrRBZqBcvpjSGLZGLZBB
+common item: c
+lowercase: 97-122	uppercase: 65-90
+lowercase: 3
+
+zGNzgsjDssvNbPlWJfJq
+common item: N
+lowercase: 97-122	uppercase: 65-90
+uppercase: 40
+
+RLMVSRMLhCLZSMZHDSJWvpcqfbfhvpJqcWPv
+common item: h
+lowercase: 97-122	uppercase: 65-90
+lowercase: 8
+
+dMVHLFHLZMLRLLFRHHHVZMgDTntgstGwznzGGnzjDFwG
+common item: F
+lowercase: 97-122	uppercase: 65-90
+uppercase: 32
+
+wCLCHLBwzBtQRLHLbNFFfdqdDqVrVfBN
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+JGvljmgGZvMlfDRRnnnZnfND
+common item: Z
+lowercase: 97-122	uppercase: 65-90
+uppercase: 52
+
+GppRlgJlSllSgjMsmllpTjcCLczWztPWPwwwzWThtcQh
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+WvHbvvWnFHszDRSltcCctCFD
+common item: F
+lowercase: 97-122	uppercase: 65-90
+uppercase: 32
+
+gCmJmCCPTPqpgrZtjdRtDRplcSjS
+common item: p
+lowercase: 97-122	uppercase: 65-90
+lowercase: 16
+
+rJJrQPPJQmrmrhGTznCfLMMbfvWfbCWQ
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+TqBWtTbFBNNRRtwQpJJvvvZPpTSQ
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+fRMfsMssrGhSmMwSQvvZJm
+common item: M
+lowercase: 97-122	uppercase: 65-90
+uppercase: 39
+
+VggcVlsCgHnVFnndbbnR
+common item: V
+lowercase: 97-122	uppercase: 65-90
+uppercase: 48
+
+NdrSSWBNPPSWWHPPlwlLZHLZLMhjlLLH
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+pVptMTgVTzLwZTzlbF
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+qsRmRJtsMvMqgqgRvCdcSrWSPcWrDmmdBN
+common item: m
+lowercase: 97-122	uppercase: 65-90
+lowercase: 13
+
+nbJnfqWcmCMnSBSHwzWBsHHz
+common item: W
+lowercase: 97-122	uppercase: 65-90
+uppercase: 49
+
+dVpdvdppdptppDlvlHcczSgNcgww
+common item: v
+lowercase: 97-122	uppercase: 65-90
+lowercase: 22
+
+VGTdTVtGtRLFPTDbcfCmmcCQJQjcrT
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+VTjrjrjTlTjQMdpGrWMSHvSG
+common item: r
+lowercase: 97-122	uppercase: 65-90
+lowercase: 18
+
+wnNJbDmttnwnhNwcJmNGdvWvMSfvMfhSSppSdp
+common item: h
+lowercase: 97-122	uppercase: 65-90
+lowercase: 8
+
+JznFnNsGnzzGFDJsFNmLgVVQZBlLZjQTLTjTls
+common item: s
+lowercase: 97-122	uppercase: 65-90
+lowercase: 19
+
+hpngHwcpWHgjjfhzTJBfBB
+common item: h
+lowercase: 97-122	uppercase: 65-90
+lowercase: 8
+
+RFFbFlQlSdRsbRQQMGPRGdSGjBvvNTvzZMBvjzBBTJTvMBBT
+common item: M
+lowercase: 97-122	uppercase: 65-90
+uppercase: 39
+
+GPSSPDDDFzGlGGRzLzGGPRWqnprcgCHwCHpwHWVcncLV
+common item: L
+lowercase: 97-122	uppercase: 65-90
+uppercase: 38
+
+LLlLGffQLPRThRwP
+common item: 
+lowercase: 97-122	uppercase: 65-90
+
+MpZjbmznWqmqZznmzmpZqZnMRgPBCTPfgRTTwTjhwBPPghjP
+common item: j
+lowercase: 97-122	uppercase: 65-90
+lowercase: 10
+
+VnZpMsMMJnWsmnJpJmzrtFlGQFrHGvSvfHStNV
+common item: V
+lowercase: 97-122	uppercase: 65-90
+uppercase: 48
+
+MQqHMQPnqmpDdTLLRnDjsj
+common item: n
+lowercase: 97-122	uppercase: 65-90
+lowercase: 14
+
+NGFzwgtLBtFFGrrCtzgfgCNgSsdTDSSTsdssjDdSlZRjTSBs
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+zCwNLthfrbCgzzhqhmccJPhQHVmV
+common item: h
+lowercase: 97-122	uppercase: 65-90
+lowercase: 8
+
+SndBVcgdqcRBRcdPBBcVcQTSSMLMlTssMNMWsHMsLQ
+common item: S
+lowercase: 97-122	uppercase: 65-90
+uppercase: 45
+
+GmJvZvhqpvZtNwwWLTTLwMMm
+common item: m
+lowercase: 97-122	uppercase: 65-90
+lowercase: 13
+
+JFJpzFGZqjvhGZcjBPcCBBPnnVBc
+common item: j
+lowercase: 97-122	uppercase: 65-90
+lowercase: 10
+
+rJWbqTvwvJNbPDPPvLcZvPDp
+common item: v
+lowercase: 97-122	uppercase: 65-90
+lowercase: 22
+
+QMnfBsjmFPLcHRDfPp
+common item: f
+lowercase: 97-122	uppercase: 65-90
+lowercase: 6
+
+lQlMlmtFsMMBstljlnGhtMhmGNqJqTcWNNbWdGwdNNJCrTrq
+common item: G
+lowercase: 97-122	uppercase: 65-90
+uppercase: 33
+
+LcjcNCQNQWDpRDjRTj
+common item: j
+lowercase: 97-122	uppercase: 65-90
+lowercase: 10
+
+vWvszVVSsBGWsTJRFHRJTTSTRJ
+common item: S
+lowercase: 97-122	uppercase: 65-90
+uppercase: 45
+
+vvGbtqbGVVBqtzbqvBdzVLWNLClwnwMLWlQNMfdPQP
+common item: d
+lowercase: 97-122	uppercase: 65-90
+lowercase: 4
+
+TWBZsWrjzZzWBrBsrrsTLNNJvFnJVmlSFFQnGpmnSJJS
+common item: 
+lowercase: 97-122	uppercase: 65-90
+
+qdCggdqqqhhqwhRbCwbCPqhlJFPPGJQVvvvnpVVmPnnFvS
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+ffgCfghDqDdCsGWZjTsLrsfW
+common item: f
+lowercase: 97-122	uppercase: 65-90
+lowercase: 6
+
+QzQSSQmzSsLQcLmrcsLzccgqCnwqCtZDnDnrZwgnqTTT
+common item: r
+lowercase: 97-122	uppercase: 65-90
+lowercase: 18
+
+hFRHHRPRPMtWPGVPRlMljRPCgWBBDTgJBgnwqTZDBZDWDB
+common item: W
+lowercase: 97-122	uppercase: 65-90
+uppercase: 49
+
+jPjPHRMjjvdjVFhdNfbsbbQfbcddmNtL
+common item: d
+lowercase: 97-122	uppercase: 65-90
+lowercase: 4
+
+jJlTqMqJtdztJqzcSJSlTdSlprLsRRHwcRRrsrHbrnnRHsHL
+common item: c
+lowercase: 97-122	uppercase: 65-90
+lowercase: 3
+
+VVVMWNNWmNmLnPLRHrLp
+common item: 
+
+lowercase: 97-122	uppercase: 65-90
+
+NGhfvvVWBNfNNCNCQTMqjzgTQBSSSqll
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+SSSRMRSRpnMRHLqWLfPlDGlGWldD
+common item: L
+lowercase: 97-122	uppercase: 65-90
+uppercase: 38
+
+hbNtlmvrNrsVDWsGPfPfqG
+common item: s
+lowercase: 97-122	uppercase: 65-90
+lowercase: 19
+
+jvbBNmvlJjRcCzHFppCJ
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+hhWWPjnBGBGnjqBWSnhhsNLllLNcLczJcqcTlLTlfl
+common item: q
+lowercase: 97-122	uppercase: 65-90
+lowercase: 17
+
+FHvFFMHwdmvrDbwCbbvHwdHnZTMLzTNTczflJTZclzNLlLcJ
+common item: M
+lowercase: 97-122	uppercase: 65-90
+uppercase: 39
+
+HdFFvdDvpCDdrnwrGhBQhWRRpsjQWWQW
+common item: p
+lowercase: 97-122	uppercase: 65-90
+lowercase: 16
+
+sBsvtJtdRdjNbWWrTllqlNgg
+common item: N
+lowercase: 97-122	uppercase: 65-90
+uppercase: 40
+
+nSZSnPPZzMSnSlScWWWgrVWCrqgrWMWr
+common item: M
+lowercase: 97-122	uppercase: 65-90
+uppercase: 39
+
+lzSncQcLZLzlwDvtdDdFdFJJhHvJ
+common item: D
+lowercase: 97-122	uppercase: 65-90
+uppercase: 30
+
+lpsTLDlTtFtlWHPDvvgPfgMrQQJM
+common item: D
+lowercase: 97-122	uppercase: 65-90
+uppercase: 30
+
+zmNbzcNjzldjwmbdbhhjcjRgfwrgvMwMMSRJSvQQvrRf
+common item: w
+lowercase: 97-122	uppercase: 65-90
+lowercase: 23
+
+ZhjqcjzNhmzNqBqNznmcWHplCFGnpCtFsGWHHWsH
+common item: n
+lowercase: 97-122	uppercase: 65-90
+lowercase: 14
+
+ZPGQBFHFbhSrHqtfSrSr
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+nMdznzzMDTnjMQrMWtrMptplqpqS
+common item: M
+lowercase: 97-122	uppercase: 65-90
+uppercase: 39
+
+wzjczJmccTJCmcVghZBJbPBQBbVh
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+wLLMJbqSBBnnJhbvbFSSRRlztTrHzrrrrd
+common item: S
+lowercase: 97-122	uppercase: 65-90
+uppercase: 45
+
+QNNGVPjWPGVqltTHWCqCdH
+common item: W
+lowercase: 97-122	uppercase: 65-90
+uppercase: 49
+
+sjNGmmGVGgQNGDVmsVpgqQVpMDhvbLwMffZfhZbLnfLLLZwb
+common item: D
+lowercase: 97-122	uppercase: 65-90
+uppercase: 30
+
+gQLcQrMtBPdwSBsSlmBm
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+TfCpTJnTbfqgsgwgppsSzp
+common item: p
+lowercase: 97-122	uppercase: 65-90
+lowercase: 16
+
+jVbvTnvWfJnJjjbfCjWWjrFPrLMtcDPgLMQQRtgZVF
+common item: V
+lowercase: 97-122	uppercase: 65-90
+uppercase: 48
+
+gwpHvpgwngGHcnvNvgnmsqCzmMzlfqmmqzHHCm
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+JrdSLdBVPRDtRtPfPPzCJhjqmljzmmqszzsM
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+SWLDDtVdrZWtSBRZfRcwgFGnpNFpnTnWnTvT
+common item: W
+lowercase: 97-122	uppercase: 65-90
+uppercase: 49
+
+rpcnHrwrhWccNZDDBBgBVCSW
+common item: W
+lowercase: 97-122	uppercase: 65-90
+uppercase: 49
+
+nmzFRRjFmmJQNDJC
+common item: m
+lowercase: 97-122	uppercase: 65-90
+lowercase: 13
+
+qznMlqGnzRtRGvqGFRPrdMhwTpTLfLcppLHp
+common item: M
+lowercase: 97-122	uppercase: 65-90
+uppercase: 39
+
+wthvbmhmChWMRJLJzngZpzLLNC
+common item: C
+lowercase: 97-122	uppercase: 65-90
+uppercase: 29
+
+SsdBVjSTjBdffBFfcSdVHfTrnDZGpQgNZHNnLZGpJngJGLng
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+sSdTcdVScdcrccjcrBPrBSjcvmRRwlWPhwmqtgWhMPtmMMqR
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+CJJBdBCrHdBhtRHctBQhRMrBwZpwZWNZNSNTwSNpQWpZsSSW
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+LVFnvnbDjLsDPsPqFFvPvDnTzSTwNwPZpSmpSpgmgZWNTW
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+LjlflbFjsvVlrHcrHtrfcChH
+common item: f
+lowercase: 97-122	uppercase: 65-90
+lowercase: 6
+
+tVLJGNRtfBBNGBrfrbzmfhPsrsPC
+common item: f
+lowercase: 97-122	uppercase: 65-90
+lowercase: 6
+
+DWWDQHQgllSFqFzcsJmzzSSzmrrs
+common item: S
+lowercase: 97-122	uppercase: 65-90
+uppercase: 45
+
+MJFQDgMqnHlDvFdGNBNNZGNVVvjV
+common item: v
+lowercase: 97-122	uppercase: 65-90
+lowercase: 22
+
+wnNwGCBBFNWBqjFBnLLGVDHhHmDPHvZTjTvTrPvD
+common item: j
+lowercase: 97-122	uppercase: 65-90
+lowercase: 10
+
+bMbttVScMJQtdgSgstbJRSPmrTHmHmrmmSDZlrPrPDhv
+common item: S
+lowercase: 97-122	uppercase: 65-90
+uppercase: 45
+
+cMbgpsbVbzbdRMRFWLqzBfLGwwwwfW
+common item: z
+lowercase: 97-122	uppercase: 65-90
+lowercase: 26
+
+JpSnGSGpbGgsWWPHJrdfsT
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+MNsRqNNvMQDTLWHlffNHLN
+common item: N
+lowercase: 97-122	uppercase: 65-90
+uppercase: 40
+
+qqmtRzRvCRRQDqjqjDmsmRpZwSZbcwbnCcCSBBnSSnnC
+common item: C
+lowercase: 97-122	uppercase: 65-90
+uppercase: 29
+
+TWqlqpRqRptqlRhrmtGGzhbSrSdz
+common item: t
+lowercase: 97-122	uppercase: 65-90
+lowercase: 20
+
+VgsBVMvgVZfZvPsMVNvfZfvVbSPdhFPFhbzLhJdGFJmLhhhL
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+QZgvZgvHwbwHbMsMRllRjDRDnQRqlRjl
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+fsPQwnHnHLLfnBBnwwGtjTGRWTWTWwhV
+common item: w
+lowercase: 97-122	uppercase: 65-90
+lowercase: 23
+
+jblbdjZFDMbGllqTGTtVlq
+common item: l
+lowercase: 97-122	uppercase: 65-90
+lowercase: 12
+
+gmdMgZMbjpZDcrrDgdmszsPLpQfpBPPnNQNLLz
+common item: p
+lowercase: 97-122	uppercase: 65-90
+lowercase: 16
+
+HRsPPGMhLPMrnPchPSwStjbSttSvtHSqQw
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+dfsCfpCJVJCvdFBFwStwjj
+common item: d
+lowercase: 97-122	uppercase: 65-90
+lowercase: 4
+
+gTNWmWfTNVZVJzZWpWJgTpfhnDrMnDclgDlDrDRnRcMLDs
+common item: g
+lowercase: 97-122	uppercase: 65-90
+lowercase: 7
+
+ZQZQJMqdwmZvqfPmwRjpBBjHjnshnjtt
+common item: 
+lowercase: 97-122	uppercase: 65-90
+
+zcTPTLDTFWLGTrTSWPcDSSHjRlhRsDhHslslssBRljjj
+common item: D
+lowercase: 97-122	uppercase: 65-90
+uppercase: 30
+
+TrNFLbTWrGNZvmvVQPQV
+common item: 
+
+lowercase: 97-122	uppercase: 65-90
+
+htfLgmtSLcTWNLcT
+common item: L
+lowercase: 97-122	uppercase: 65-90
+uppercase: 38
+
+slbHlBBGbqRsblBHvdNJJcjFFNBTVWWWcn
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+bbQsHMMblHrMsGRqvQhwCTQCwtQCzSpfmS
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+zmqdphmFmSpTzhdqhFmwjjGbtcvDbcGGjllGQjSP
+common item: S
+lowercase: 97-122	uppercase: 65-90
+uppercase: 45
+
+HJFrMCsVLrHRRMCNrVMVnctvstlGcQlPtGGjQtGlvP
+common item: s
+lowercase: 97-122	uppercase: 65-90
+lowercase: 19
+
+RFLHLVWrNgVJzwzwfgffwdfp
+common item: g
+lowercase: 97-122	uppercase: 65-90
+lowercase: 7
+
+vdMjSmMMpmMWhRpndRmZnhvHqLpGHcJGGGDLHHLGcfcLfc
+common item: p
+lowercase: 97-122	uppercase: 65-90
+lowercase: 16
+
+lPBwwrsCgLFggcqqLW
+common item: g
+lowercase: 97-122	uppercase: 65-90
+lowercase: 7
+
+TWszsWNBTNdmSRvjbZZT
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+zFlBGpzzzLLNjBwPcwwmcNPfWNQn
+common item: N
+lowercase: 97-122	uppercase: 65-90
+uppercase: 40
+
+VHSHRJTJDSVVnmcVVPpWmpnf
+common item: V
+lowercase: 97-122	uppercase: 65-90
+uppercase: 48
+
+DMZHHrDHHrJrrZrShZsHGbMBbFgGjGCgjpFlBzzb
+common item: M
+lowercase: 97-122	uppercase: 65-90
+uppercase: 39
+
+FVMpsvTqvqMssVsWZSrqWFvwlGDGwQzwfwQQNLzDlwlZwf
+common item: Z
+lowercase: 97-122	uppercase: 65-90
+uppercase: 52
+
+hPbgBHhJJcJPwCwDpNllCCHC
+common item: H
+lowercase: 97-122	uppercase: 65-90
+uppercase: 34
+
+pnjbBmjgbgmqtSmsTtsF
+common item: m
+lowercase: 97-122	uppercase: 65-90
+lowercase: 13
+
+DHZHmfTmCfjDZHMZmzffHHnQwwTBdQwbSdBGBQwhBQTQww
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+cqstRFWNtLrNFwdVShlBSlhBRl
+common item: R
+lowercase: 97-122	uppercase: 65-90
+uppercase: 44
+
+StJWpLptNWLtJcpqPrFHDjZzzvnDDHPCZjPvvz
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+hzffhGVGGhzRqTBLTqHL
+common item: 
+
+lowercase: 97-122	uppercase: 65-90
+
+sFFFsMQlwJMsmrBFSNHTHNqrTS
+common item: F
+lowercase: 97-122	uppercase: 65-90
+uppercase: 32
+
+pbdsJMdJMJbwbmJJtbTtgnffGgVVChvD
+common item: b
+lowercase: 97-122	uppercase: 65-90
+lowercase: 2
+
+FvJnFnCpQTddSSmFdFpPPsVhppDjBzjDVhDV
+common item: p
+lowercase: 97-122	uppercase: 65-90
+lowercase: 16
+
+RgZMZbsgzlDPlhjb
+common item: b
+lowercase: 97-122	uppercase: 65-90
+lowercase: 2
+
+cHHHRgRZgfHHZGZfHZcLLHrrCrmJCmddrsvdJsmvFFQG
+common item: G
+lowercase: 97-122	uppercase: 65-90
+uppercase: 33
+
+dpJDdZwLnvdvFmFMmHjslMLH
+common item: L
+lowercase: 97-122	uppercase: 65-90
+uppercase: 38
+
+CGCztgPhWCWhzzzNNPGfrrWfmbbsmmHjFHDMsbHMsjFPjbHm
+common item: P
+lowercase: 97-122	uppercase: 65-90
+uppercase: 42
+
+rNQDGzzhCCfNrzrDzChTcZZvQcTRJpTwdvQpVc
+common item: Q
+lowercase: 97-122	uppercase: 65-90
+uppercase: 43
+
+VpvNGhGHGNhHbPsbVbvfFtLCzSCFSBsCFSFCLB
+common item: s
+lowercase: 97-122	uppercase: 65-90
+lowercase: 19
+
+MlqJwTnrRRrRnMlQMHfHzHzWFWtmTzLWFC
+common item: T
+lowercase: 97-122	uppercase: 65-90
+uppercase: 46
+
+ljZDDHqqjqRbpNhjNNgcgc
+common item: j
+lowercase: 97-122	uppercase: 65-90
+lowercase: 10
+
+qrQtDzcQzbrcfdbqrQrthtscSsvpvnsSHpTpLpspmsSs
+common item: c
+lowercase: 97-122	uppercase: 65-90
+lowercase: 3
+
+CVwNNVRNBSHsLSFBTv
+common item: B
+lowercase: 97-122	uppercase: 65-90
+uppercase: 28
+
+CVVVNZjlVlGwlGlljNlWJVrrfqbPQQqHqJhhftbfDJqf
+common item: J
+lowercase: 97-122	uppercase: 65-90
+uppercase: 36
+
+lpmrPDPDjPlmWrVzPztZwFjtFbBnRtZbbcRL
+common item: j
+lowercase: 97-122	uppercase: 65-90
+lowercase: 10
+
+dnqJCCgQdNqbqRbRbBLt
+common item: q
+lowercase: 97-122	uppercase: 65-90
+lowercase: 17
+
+QGhGddGCTdMHNTGgshgJhzvSmWWPSsnprpPzWzsWlr
+common item: s
+lowercase: 97-122	uppercase: 65-90
+lowercase: 19
+
+hCJHTdJJNvTdSSNssjvfwgntwDgtgwDGCtZwtRRB
+common item: C
+lowercase: 97-122	uppercase: 65-90
+uppercase: 29
+
+mbllFmFMFbMVWWLpbpZwwBZTZnnVwnTggtDB
+common item: V
+lowercase: 97-122	uppercase: 65-90
+uppercase: 48
+
+MmzLQpFPTmPzHvfJNNzhNs
+common item: z
+lowercase: 97-122	uppercase: 65-90
+lowercase: 26
+
+dzgBwzlgrrBrVLLlwLBgBlgRScDMMDDswMsHZRGDsZGZmM
+common item: w
+lowercase: 97-122	uppercase: 65-90
+lowercase: 23
+
+HPfPbjCFJjCvfnnsjsDDcccmZsRSMc
+common item: j
+lowercase: 97-122	uppercase: 65-90
+lowercase: 10
+
+hCvHfWPPnvJhPWpqNNhqLqzLqLLd
+common item: h
+lowercase: 97-122	uppercase: 65-90
+lowercase: 8
+
+RESULT: 8185
+LINE LENGTH COMPARISON
+g, t, Z, D, j, B, c, m, p, c, D, g, p, Z, c, m, m, b, g, t, d, t, 
+q, m, C, G, V, C, G, G, s, v, h, C, F, C, C, q, v, m, C, M, M, M, 
+gtZDjBcmpcDgpZcmmbgtdtqmCGVCGGsvhCFCCqvmCMMM
+common item: m
+lowercase: 13
+
+LINE LENGTH COMPARISON
+J, r, h, f, z, f, L, T, N, f, J, h, P, n, h, Q, n, f, z, H, f, 
+C, F, F, Q, F, S, G, v, M, F, C, G, Q, F, s, Q, S, M, S, V, s, 
+JrhfzfLTNfJhPnhQnfzHfCFFQFSGvMFCGQFsQSMSVs
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+T, l, l, T, R, r, f, N, N, l, f, z, 
+w, h, t, Z, B, Z, g, t, R, D, B, p, 
+TllTRrfNNlfzwhtZBZgtRDBp
+common item: R
+uppercase: 44
+
+LINE LENGTH COMPARISON
+v, M, d, w, j, Z, d, j, w, j, v, j, d, T, Z, Z, v, 
+C, c, Q, M, G, n, Q, M, Q, c, b, c, g, L, L, C, L, 
+vMdwjZdjwjvjdTZZvCcQMGnQMQcbcgLLCL
+common item: M
+uppercase: 39
+
+LINE LENGTH COMPARISON
+r, s, V, h, f, m, s, s, P, W, z, D, V, 
+G, C, L, J, S, b, C, g, P, L, S, Q, G, 
+rsVhfmssPWzDVGCLJSbCgPLSQG
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+l, f, W, N, D, H, D, g, f, s, z, 
+F, R, T, F, t, w, w, N, j, d, v, 
+lfWNDHDgfszFRTFtwwNjdv
+common item: N
+uppercase: 40
+
+LINE LENGTH COMPARISON
+G, L, P, q, V, q, d, V, G, C, L, C, 
+d, c, z, j, M, j, z, M, f, z, l, d, 
+GLPqVqdVGCLCdczjMjzMfzld
+common item: d
+lowercase: 4
+
+LINE LENGTH COMPARISON
+J, n, W, Q, v, J, D, m, v, W, B, t, 
+l, M, z, h, r, z, f, H, Q, g, c, z, 
+JnWQvJDmvWBtlMzhrzfHQgcz
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+t, D, t, J, D, D, D, D, t, W, R, R, m, B, w, J, w, W, t, 
+p, P, R, s, G, C, G, S, c, L, P, G, S, q, s, p, N, C, S, 
+tDtJDDDDtWRRmBwJwWtpPRsGCGScLPGSqspNCS
+common item: R
+uppercase: 44
+
+LINE LENGTH COMPARISON
+C, h, V, z, Z, z, f, N, D, z, N, 
+J, m, B, Q, f, j, j, J, f, m, H, 
+ChVzZzfNDzNJmBQfjjJfmH
+common item: f
+lowercase: 6
+
+LINE LENGTH COMPARISON
+M, r, T, M, P, M, n, c, G, M, J, v, P, P, v, P, W, T, b, r, M, W, v, 
+g, m, B, g, Q, w, g, d, p, w, m, d, p, d, p, j, w, p, H, Q, c, d, w, 
+MrTMPMncGMJvPPvPWTbrMWvgmBgQwgdpwmdpdpjwpHQcdw
+common item: c
+lowercase: 3
+
+LINE LENGTH COMPARISON
+S, P, v, v, v, b, q, r, F, v, M, v, 
+Z, z, J, z, s, F, V, z, V, J, N, V, 
+SPvvvbqrFvMvZzJzsFVzVJNV
+common item: F
+uppercase: 32
+
+LINE LENGTH COMPARISON
+m, v, B, b, v, M, F, q, b, M, M, V, V, m, t, C, B, 
+H, p, D, d, D, P, T, D, s, p, d, N, W, P, D, V, P, 
+mvBbvMFqbMMVVmtCBHpDdDPTDspdNWPDVP
+common item: V
+uppercase: 48
+
+LINE LENGTH COMPARISON
+z, j, S, f, f, t, c, Q, t, w, t, S, f, Q, S, 
+p, N, D, p, p, s, N, s, j, P, N, d, R, P, P, 
+zjSfftcQtwtSfQSpNDppsNsjPNdRPP
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+f, g, f, S, t, J, S, h, 
+r, g, v, v, C, L, L, v, 
+fgfStJShrgvvCLLv
+common item: g
+lowercase: 7
+
+LINE LENGTH COMPARISON
+G, m, F, n, N, N, w, b, F, F, b, h, Q, Q, G, Q, n, G, w, w, w, 
+f, B, g, n, M, M, q, V, D, B, Z, V, V, B, M, f, M, V, z, V, z, 
+GmFnNNwbFFbhQQGQnGwwwfBgnMMqVDBZVVBMfMVzVz
+common item: n
+lowercase: 14
+
+LINE LENGTH COMPARISON
+v, W, z, R, R, H, z, T, H, c, 
+g, f, Z, D, V, f, B, g, f, H, 
+vWzRRHzTHcgfZDVfBgfH
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+S, S, T, v, r, v, R, c, P, p, c, v, j, 
+F, G, w, N, G, b, N, p, b, w, Q, w, z, 
+SSTvrvRcPpcvjFGwNGbNpbwQwz
+common item: p
+lowercase: 16
+
+LINE LENGTH COMPARISON
+F, F, g, b, Z, Z, F, Z, g, F, m, p, s, t, L, g, m, b, t, 
+z, q, N, r, w, V, P, l, M, P, l, S, W, W, r, M, P, N, p, 
+FFgbZZFZgFmpstLgmbtzqNrwVPlMPlSWWrMPNp
+common item: p
+lowercase: 16
+
+LINE LENGTH COMPARISON
+Q, Q, h, T, v, j, h, c, v, j, j, v, T, c, T, c, T, f, C, c, S, R, 
+w, w, W, z, w, z, P, M, r, z, W, N, N, W, V, V, h, w, r, w, W, q, 
+QQhTvjhcvjjvTcTcTfCcSRwwWzwzPMrzWNNWVVhwrwWq
+common item: h
+lowercase: 8
+
+LINE LENGTH COMPARISON
+G, R, Q, B, f, C, R, n, G, G, T, c, D, v, B, f, G, v, f, f, C, C, j, 
+n, F, Z, t, F, F, g, S, t, J, L, b, L, H, b, F, L, J, Z, d, g, m, d, 
+GRQBfCRnGGTcDvBfGvffCCjnFZtFFgStJLbLHbFLJZdgmd
+common item: n
+lowercase: 14
+
+LINE LENGTH COMPARISON
+p, p, p, d, j, c, r, M, M, R, D, J, L, J, d, R, c, w, R, D, r, w, 
+s, s, q, H, G, G, D, H, s, Z, H, H, s, v, B, V, t, v, m, V, H, V, 
+pppdjcrMMRDJLJdRcwRDrwssqHGGDHsZHHsvBVtvmVHV
+common item: D
+uppercase: 30
+
+LINE LENGTH COMPARISON
+n, l, C, F, W, z, G, z, z, Q, F, l, S, l, h, G, W, n, P, z, F, b, S, 
+s, B, Z, m, s, s, s, m, V, V, m, s, B, v, n, H, q, v, N, V, q, q, m, 
+nlCFWzGzzQFlSlhGWnPzFbSsBZmsssmVVmsBvnHqvNVqqm
+common item: n
+lowercase: 14
+
+LINE LENGTH COMPARISON
+l, F, T, T, T, C, S, Q, S, 
+T, r, d, G, J, J, L, J, G, 
+lFTTTCSQSTrdGJJLJG
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+j, p, s, G, M, g, s, m, g, h, Q, w, Q, s, M, m, h, l, Q, s, h, 
+j, t, T, N, T, R, T, n, F, q, R, W, n, n, q, R, f, F, n, n, t, 
+jpsGMgsmghQwQsMmhlQshjtTNTRTnFqRWnnqRfFnnt
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+S, L, B, C, H, r, c, v, Z, H, b, S, v, S, Z, r, S, v, S, 
+W, n, f, v, V, N, v, f, t, V, l, F, R, T, q, n, R, T, q, 
+SLBCHrcvZHbSvSZrSvSWnfvVNvftVlFRTqnRTq
+common item: v
+lowercase: 22
+
+LINE LENGTH COMPARISON
+J, r, z, d, Z, b, B, c, H, B, C, r, r, l, H, r, r, S, 
+s, M, g, m, G, p, J, P, D, P, Q, m, p, g, Q, g, P, G, 
+JrzdZbBcHBCrrlHrrSsMgmGpJPDPQmpgQgPG
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+c, m, c, Z, H, g, w, g, M, g, H, S, L, m, t, 
+j, L, f, W, P, N, N, r, W, B, N, f, f, f, p, 
+cmcZHgwgMgHSLmtjLfWPNNrWBNfffp
+common item: L
+uppercase: 38
+
+LINE LENGTH COMPARISON
+J, T, q, G, T, s, C, l, H, s, l, V, V, R, V, C, V, G, V, J, G, n, 
+B, r, j, d, n, n, r, d, B, N, v, j, P, N, B, N, B, r, W, v, n, W, 
+JTqGTsClHslVVRVCVGVJGnBrjdnnrdBNvjPNBNBrWvnW
+common item: 
+
+LINE LENGTH COMPARISON
+V, V, l, Q, l, q, T, F, J, l, z, z, l, s, V, G, s, R, C, 
+Z, M, t, h, H, D, b, w, b, F, h, g, c, b, w, H, c, h, g, 
+VVlQlqTFJlzzlsVGsRCZMthHDbwbFhgcbwHchg
+common item: F
+uppercase: 32
+
+LINE LENGTH COMPARISON
+q, g, Z, j, g, j, j, b, s, s, q, g, s, j, l, N, q, j, h, T, 
+t, d, r, f, Q, d, T, d, W, L, L, n, D, V, f, H, t, H, W, d, 
+qgZjgjjbssqgsjlNqjhTtdrfQdTdWLLnDVfHtHWd
+common item: 
+
+LINE LENGTH COMPARISON
+z, c, G, M, B, D, D, z, c, 
+L, n, z, t, f, Q, Q, Q, z, 
+zcGMBDDzcLnztfQQQz
+common item: z
+lowercase: 26
+
+LINE LENGTH COMPARISON
+J, S, p, p, J, c, B, S, c, M, m, M, F, F, B, R, C, p, R, C, M, m, G, 
+l, g, g, v, j, h, b, h, l, N, l, g, l, w, b, s, l, C, Z, j, h, D, Z, 
+JSppJcBScMmMFFBRCpRCMmGlggvjhbhlNlglwbslCZjhDZ
+common item: C
+uppercase: 29
+
+LINE LENGTH COMPARISON
+h, v, h, m, q, c, q, w, w, c, T, B, v, v, w, 
+Q, n, R, Q, n, R, n, T, R, F, z, F, z, Q, z, 
+hvhmqcqwwcTBvvwQnRQnRnTRFzFzQz
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+j, W, L, P, P, t, P, s, g, M, t, p, d, L, M, L, W, l, l, p, g, L, L, 
+Q, F, Q, h, F, J, j, n, V, r, z, F, r, V, F, h, n, R, z, J, J, r, J, 
+jWLPPtPsgMtpdLMLWllpgLLQFQhFJjnVrzFrVFhnRzJJrJ
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+W, P, W, f, f, g, t, S, d, s, p, d, h, S, M, d, l, S, d, t, f, 
+B, b, H, m, S, v, q, b, N, B, C, C, m, c, B, m, c, v, c, C, H, 
+WPWffgtSdspdhSMdlSdtfBbHmSvqbNBCCmcBmcvcCH
+common item: S
+uppercase: 45
+
+LINE LENGTH COMPARISON
+f, r, V, c, r, V, c, g, g, f, 
+S, Z, J, f, b, b, J, v, B, d, 
+frVcrVcggfSZJfbbJvBd
+common item: f
+lowercase: 6
+
+LINE LENGTH COMPARISON
+h, w, W, Q, n, w, h, W, Q, m, Q, m, T, h, 
+T, S, s, d, v, v, S, M, B, T, B, z, c, b, 
+hwWQnwhWQmQmThTSsdvvSMBTBzcb
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+w, G, n, F, F, C, G, l, Q, w, n, t, G, t, C, t, w, n, t, w, D, m, F, w, 
+R, g, L, r, H, q, N, R, q, q, c, N, N, g, R, r, H, H, L, g, g, C, j, p, 
+wGnFFCGlQwntGtCtwntwDmFwRgLrHqNRqqcNNgRrHHLggCjp
+common item: C
+uppercase: 29
+
+LINE LENGTH COMPARISON
+w, R, S, w, w, H, D, M, s, R, G, H, 
+v, N, B, N, j, T, g, v, j, g, J, D, 
+wRSwwHDMsRGHvNBNjTgvjgJD
+common item: D
+uppercase: 30
+
+LINE LENGTH COMPARISON
+m, c, L, c, F, C, c, l, W, Q, W, Q, p, P, Q, W, V, Q, c, Q, c, 
+v, v, N, J, j, r, N, B, T, r, v, g, J, g, B, v, T, R, v, C, g, 
+mcLcFCclWQWQpPQWVQcQcvvNJjrNBTrvgJgBvTRvCg
+common item: C
+uppercase: 29
+
+LINE LENGTH COMPARISON
+V, F, P, b, Q, L, c, h, Q, L, 
+S, R, f, b, M, t, d, H, G, H, 
+VFPbQLchQLSRfbMtdHGH
+common item: b
+lowercase: 2
+
+LINE LENGTH COMPARISON
+l, f, V, r, h, n, l, R, R, q, r, J, Z, V, 
+D, J, d, H, S, W, C, v, J, C, J, S, b, j, 
+lfVrhnlRRqrJZVDJdHSWCvJCJSbj
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+B, F, s, g, c, g, M, N, N, 
+Q, g, S, v, b, f, C, f, f, 
+BFsgcgMNNQgSvbfCff
+common item: g
+lowercase: 7
+
+LINE LENGTH COMPARISON
+f, f, N, P, c, M, t, z, 
+q, P, l, n, m, R, G, h, 
+ffNPcMtzqPlnmRGh
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+Z, J, p, l, F, m, R, J, m, W, R, J, R, W, m, T, J, 
+C, v, t, T, t, n, L, C, t, n, d, C, q, t, q, n, r, 
+ZJplFmRJmWRJRWmTJCvtTtnLCtndCqtqnr
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+S, Q, s, V, P, Q, H, B, Q, Z, N, S, N, 
+S, L, C, f, S, L, r, c, L, c, r, r, r, 
+SQsVPQHBQZNSNSLCfSLrcLcrrr
+common item: S
+uppercase: 45
+
+LINE LENGTH COMPARISON
+V, M, j, P, j, b, N, M, D, s, V, H, 
+m, R, l, l, m, Z, p, Z, W, m, j, h, 
+VMjPjbNMDsVHmRllmZpZWmjh
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+L, c, T, L, R, b, J, h, h, d, h, L, J, b, b, c, 
+l, f, V, v, f, W, Q, V, W, F, R, W, F, F, f, q, 
+LcTLRbJhhdhLJbbclfVvfWQVWFRWFFfq
+common item: R
+uppercase: 44
+
+LINE LENGTH COMPARISON
+r, Z, N, t, t, S, N, v, t, g, s, 
+P, P, F, s, q, B, F, P, W, Q, F, 
+rZNttSNvtgsPPFsqBFPWQF
+common item: 
+
+
+LINE LENGTH COMPARISON
+H, G, C, S, m, H, r, r, w, N, n, H, G, 
+M, L, p, D, h, b, z, z, p, m, J, J, v, 
+HGCSmHrrwNnHGMLpDhbzzpmJJv
+common item: m
+lowercase: 13
+
+LINE LENGTH COMPARISON
+V, l, S, W, z, R, t, W, S, J, 
+q, W, d, f, h, d, q, B, d, F, 
+VlSWzRtWSJqWdfhdqBdF
+common item: W
+uppercase: 49
+
+LINE LENGTH COMPARISON
+m, T, D, H, s, m, m, m, c, H, p, g, r, C, g, C, r, T, s, 
+M, M, t, q, f, s, F, N, s, Z, q, f, d, M, Z, M, N, b, d, 
+mTDHsmmmcHpgrCgCrTsMMtqfsFNsZqfdMZMNbd
+common item: s
+lowercase: 19
+
+LINE LENGTH COMPARISON
+T, D, c, p, v, r, p, H, C, p, r, C, p, H, r, m, c, Q, v, T, H, g, T, 
+Q, z, S, n, L, J, n, P, P, J, l, L, z, w, J, t, R, V, J, w, L, j, J, 
+TDcpvrpHCprCpHrmcQvTHgTQzSnLJnPPJlLzwJtRVJwLjJ
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+v, Z, S, W, Z, J, Z, J, F, v, h, Z, l, d, Z, H, d, v, v, l, p, h, Z, S, 
+N, G, N, n, m, z, w, C, P, N, H, N, H, G, N, r, r, R, H, G, C, P, m, P, 
+vZSWZJZJFvhZldZHdvvlphZSNGNnmzwCPNHNHGNrrRHGCPmP
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+b, j, f, g, c, b, j, T, Q, T, F, Q, B, 
+n, G, R, R, B, C, B, N, w, B, n, C, z, 
+bjfgcbjTQTFQBnGRRBCBNwBnCz
+common item: 
+
+LINE LENGTH COMPARISON
+c, s, q, s, c, s, b, s, s, Q, L, s, g, Q, c, L, g, L, Q, L, Q, T, Q, 
+p, F, d, l, h, d, v, d, Z, d, p, Z, W, h, J, p, l, S, h, W, W, t, q, 
+csqscsbssQLsgQcLgLQLQTQpFdlhdvdZdpZWhJplShWWtq
+common item: q
+lowercase: 17
+
+LINE LENGTH COMPARISON
+Q, g, Q, v, H, n, f, f, l, f, B, w, Q, C, f, w, l, f, g, l, n, Q, Q, 
+c, c, N, c, R, q, G, G, c, j, m, c, s, G, j, d, d, w, d, z, s, J, c, 
+QgQvHnfflfBwQCfwlfglnQQccNcRqGGcjmcsGjddwdzsJc
+common item: w
+lowercase: 23
+
+LINE LENGTH COMPARISON
+D, h, Z, b, T, L, Z, T, D, M, V, T, 
+s, R, z, s, q, s, R, j, s, z, T, z, 
+DhZbTLZTDMVTsRzsqsRjszTz
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+F, S, Z, V, t, M, L, M, M, W, b, 
+S, g, q, S, v, P, Q, l, n, p, H, 
+FSZVtMLMMWbSgqSvPQlnpH
+common item: S
+uppercase: 45
+
+LINE LENGTH COMPARISON
+M, M, P, l, l, n, n, B, m, 
+f, S, H, v, B, g, C, L, f, 
+MMPllnnBmfSHvBgCLf
+common item: B
+uppercase: 28
+
+LINE LENGTH COMPARISON
+w, h, Z, j, G, R, J, d, j, c, N, j, j, h, R, j, 
+C, v, g, C, f, b, S, v, C, Z, L, H, f, p, Z, s, 
+whZjGRJdjcNjjhRjCvgCfbSvCZLHfpZs
+common item: Z
+uppercase: 52
+
+LINE LENGTH COMPARISON
+R, R, W, G, W, w, N, R, W, w, h, w, c, 
+l, m, r, g, F, m, n, g, F, P, M, W, m, 
+RRWGWwNRWwhwclmrgFmngFPMWm
+common item: W
+uppercase: 49
+
+LINE LENGTH COMPARISON
+V, V, H, Q, G, D, G, D, G, s, d, R, r, m, Z, B, Q, Z, R, C, V, H, Z, C, 
+N, c, S, T, T, P, M, w, w, v, T, T, w, S, S, N, q, B, q, v, g, M, v, N, 
+VVHQGDGDGsdRrmZBQZRCVHZCNcSTTPMwwvTTwSSNqBqvgMvN
+common item: B
+uppercase: 28
+
+LINE LENGTH COMPARISON
+n, f, h, d, L, f, j, F, n, J, p, b, l, L, b, J, j, W, h, t, n, j, W, 
+P, S, c, N, n, w, S, T, P, T, P, q, T, v, g, n, g, N, N, v, S, v, S, 
+nfhdLfjFnJpblLbJjWhtnjWPScNnwSTPTPqTvgngNNvSvS
+common item: n
+lowercase: 14
+
+LINE LENGTH COMPARISON
+f, p, W, l, j, t, p, L, j, f, l, f, L, f, z, l, h, 
+Z, G, Q, H, Z, Q, V, d, d, H, r, r, Q, R, D, R, z, 
+fpWljtpLjflfLfzlhZGQHZQVddHrrQRDRz
+common item: z
+lowercase: 26
+
+LINE LENGTH COMPARISON
+V, C, H, C, j, w, C, w, M, S, Z, S, 
+q, Q, z, h, h, Q, q, c, W, Z, J, D, 
+VCHCjwCwMSZSqQzhhQqcWZJD
+common item: Z
+uppercase: 52
+
+LINE LENGTH COMPARISON
+G, G, G, r, F, F, g, N, R, N, N, g, m, f, n, T, d, g, m, 
+W, Q, p, c, z, v, P, v, Q, P, W, Q, J, G, D, p, z, z, c, 
+GGGrFFgNRNNgmfnTdgmWQpczvPvQPWQJGDpzzc
+common item: G
+uppercase: 33
+
+LINE LENGTH COMPARISON
+l, g, T, t, t, R, T, g, m, f, N, R, n, t, r, T, T, n, g, r, 
+C, b, j, C, w, J, C, H, j, L, B, B, H, l, M, V, M, s, b, B, 
+lgTttRTgmfNRntrTTngrCbjCwJCHjLBBHlMVMsbB
+common item: l
+lowercase: 12
+
+LINE LENGTH COMPARISON
+s, z, g, P, P, l, C, b, l, g, g, V, s, z, h, L, m, z, 
+v, c, v, N, r, q, p, j, N, q, m, r, q, q, p, G, v, G, 
+szgPPlCblggVszhLmzvcvNrqpjNqmrqqpGvG
+common item: m
+lowercase: 13
+
+LINE LENGTH COMPARISON
+w, B, Q, D, t, B, f, Q, D, t, F, 
+v, L, j, j, c, t, L, q, T, M, r, 
+wBQDtBfQDtFvLjjctLqTMr
+common item: t
+lowercase: 20
+
+LINE LENGTH COMPARISON
+Z, F, W, W, d, D, L, Q, F, w, S, f, D, S, B, S, Q, Q, B, W, n, n, n, Q, 
+V, d, b, h, g, R, V, b, s, H, z, s, s, h, b, C, l, z, z, C, V, g, g, b, 
+ZFWWdDLQFwSfDSBSQQBWnnnQVdbhgRVbsHzsshbClzzCVggb
+common item: d
+lowercase: 4
+
+LINE LENGTH COMPARISON
+V, p, V, s, H, V, c, q, c, M, V, M, M, N, H, p, s, s, p, s, t, b, M, q, 
+z, B, z, t, J, Z, T, B, B, f, J, f, z, T, v, Z, f, v, W, J, W, S, T, v, 
+VpVsHVcqcMVMMNHpsspstbMqzBztJZTBBfJfzTvZfvWJWSTv
+common item: t
+lowercase: 20
+
+LINE LENGTH COMPARISON
+m, D, D, Q, g, C, Q, Q, Q, H, d, r, w, g, 
+S, v, Z, S, m, J, J, Z, v, W, f, J, J, f, 
+mDDQgCQQQHdrwgSvZSmJJZvWfJJf
+common item: m
+lowercase: 13
+
+LINE LENGTH COMPARISON
+d, r, C, j, g, g, D, l, P, d, g, r, l, 
+b, j, N, c, n, h, c, H, s, b, p, s, j, 
+drCjggDlPdgrlbjNcnhcHsbpsj
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+c, N, N, D, R, R, p, D, c, N, c, T, p, p, p, 
+s, q, H, L, Q, G, L, f, R, L, v, H, z, L, H, 
+cNNDRRpDcNcTpppsqHLQGLfRLvHzLH
+common item: R
+uppercase: 44
+
+LINE LENGTH COMPARISON
+l, F, n, t, J, j, t, b, F, F, l, s, m, s, j, 
+v, n, G, q, H, W, L, f, h, f, q, z, z, Q, h, 
+lFntJjtbFFlsmsjvnGqHWLfhfqzzQh
+common item: n
+lowercase: 14
+
+LINE LENGTH COMPARISON
+s, g, P, b, j, B, J, t, P, g, b, P, J, b, l, b, l, J, g, b, g, b, 
+w, d, B, T, w, D, C, w, p, w, r, d, Z, Z, V, c, C, c, D, p, p, c, 
+sgPbjBJtPgbPJblblJgbgbwdBTwDCwpwrdZZVcCcDppc
+common item: B
+uppercase: 28
+
+LINE LENGTH COMPARISON
+G, G, c, l, M, j, L, n, n, j, C, M, c, h, c, C, h, L, M, L, c, n, n, 
+z, R, F, J, D, Z, J, S, R, S, z, z, z, z, D, S, S, h, s, z, P, R, S, 
+GGclMjLnnjCMchcChLMLcnnzRFJDZJSRSzzzzDSShszPRS
+common item: h
+lowercase: 8
+
+LINE LENGTH COMPARISON
+V, H, g, F, Q, g, w, V, w, f, N, N, p, Q, V, f, H, 
+z, Q, s, P, P, P, J, D, b, m, Z, b, J, D, J, b, S, 
+VHgFQgwVwfNNpQVfHzQsPPPJDbmZbJDJbS
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+H, f, N, V, W, d, H, V, v, g, H, g, V, W, V, N, p, p, N, W, V, H, w, 
+T, l, v, B, F, c, C, l, B, C, j, c, T, L, T, l, B, n, n, L, r, T, L, 
+HfNVWdHVvgHgVWVNppNWVHwTlvBFcClBCjcTLTlBnnLrTL
+common item: v
+lowercase: 22
+
+LINE LENGTH COMPARISON
+G, T, L, d, l, J, h, f, f, 
+Q, w, D, R, v, W, L, r, p, 
+GTLdlJhffQwDRvWLrp
+common item: L
+uppercase: 38
+
+LINE LENGTH COMPARISON
+H, V, Z, V, N, j, j, s, P, q, z, N, j, N, N, m, N, g, 
+D, W, M, r, R, Q, p, W, v, W, R, H, r, D, H, B, W, p, 
+HVZVNjjsPqzNjNNmNgDWMrRQpWvWRHrDHBWp
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+V, C, q, V, z, j, P, j, C, p, V, q, C, V, P, C, s, b, 
+c, t, c, n, b, l, c, G, l, T, b, G, n, l, b, F, J, f, 
+VCqVzjPjCpVqCVPCsbctcnblcGlTbGnlbFJf
+common item: 
+
+LINE LENGTH COMPARISON
+f, l, H, d, f, d, B, N, d, Z, c, f, l, B, M, j, q, M, j, B, N, f, Z, 
+Q, h, v, J, b, G, v, q, v, s, s, h, J, Q, s, J, C, J, D, W, v, v, D, 
+flHdfdBNdZcflBMjqMjBNfZQhvJbGvqvsshJQsJCJDWvvD
+common item: q
+lowercase: 17
+
+LINE LENGTH COMPARISON
+g, F, T, z, R, R, p, z, R, T, w, b, g, b, L, m, t, 
+C, v, s, J, h, W, s, C, h, r, W, C, r, t, W, C, C, 
+gFTzRRpzRTwbgbLmtCvsJhWsChrWCrtWCC
+common item: 
+
+LINE LENGTH COMPARISON
+V, z, z, z, F, b, V, R, L, P, z, n, m, R, 
+B, f, f, P, N, B, H, N, M, d, l, Z, f, l, 
+VzzzFbVRLPznmRBffPNBHNMdlZfl
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+F, F, F, M, w, C, q, J, F, F, 
+m, r, R, w, g, n, b, L, r, L, 
+FFFMwCqJFFmrRwgnbLrL
+common item: w
+lowercase: 23
+
+LINE LENGTH COMPARISON
+G, p, j, G, p, Q, H, Q, p, f, j, d, j, D, 
+R, n, L, r, b, r, R, Q, m, J, z, z, g, g, 
+GpjGpQHQpfjdjDRnLrbrRQmJzzgg
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+B, p, h, f, h, D, c, N, c, H, N, 
+v, P, B, v, S, q, J, M, W, J, S, 
+BphfhDcNcHNvPBvSqJMWJS
+common item: B
+uppercase: 28
+
+LINE LENGTH COMPARISON
+N, n, d, b, W, p, D, B, N, b, 
+j, v, W, L, Z, q, W, s, W, Q, 
+NndbWpDBNbjvWLZqWsWQ
+common item: W
+uppercase: 49
+
+LINE LENGTH COMPARISON
+J, P, F, F, T, S, P, f, g, c, M, g, f, t, 
+Q, Q, G, j, v, T, m, s, G, q, z, s, s, G, 
+JPFFTSPfgcMgftQQGjvTmsGqzssG
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+g, P, g, c, f, c, V, F, g, c, H, q, S, q, V, 
+h, b, B, C, H, l, p, b, b, p, D, l, h, D, D, 
+gPgcfcVFgcHqSqVhbBCHlpbbpDlhDD
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+F, S, d, f, W, F, T, T, B, n, 
+j, s, D, C, j, s, m, r, r, T, 
+FSdfWFTTBnjsDCjsmrrT
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+p, Q, z, L, R, V, L, p, p, L, G, c, Q, j, q, 
+b, m, V, D, J, s, C, h, C, v, C, b, V, s, m, 
+pQzLRVLppLGcQjqbmVDJsChCvCbVsm
+common item: V
+uppercase: 48
+
+LINE LENGTH COMPARISON
+q, H, L, R, G, q, q, Z, z, G, j, L, q, 
+B, N, M, F, d, n, H, l, N, l, B, F, N, 
+qHLRGqqZzGjLqBNMFdnHlNlBFN
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+D, j, q, b, f, B, T, c, h, D, j, q, q, C, j, j, C, T, W, N, T, b, 
+d, z, S, V, z, G, Z, Q, G, B, w, Z, n, Q, n, V, w, p, S, S, n, Q, 
+DjqbfBTchDjqqCjjCTWNTbdzSVzGZQGBwZnQnVwpSSnQ
+common item: B
+uppercase: 28
+
+LINE LENGTH COMPARISON
+s, s, J, l, P, r, t, v, M, s, R, L, r, r, 
+J, Q, G, N, Z, J, S, p, Z, p, G, z, S, G, 
+ssJlPrtvMsRLrrJQGNZJSpZpGzSG
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+r, l, F, s, s, H, s, v, P, R, P, M, v, F, m, t, H, v, t, 
+q, j, h, T, g, j, b, q, h, W, q, N, m, N, q, g, D, N, h, 
+rlFssHsvPRPMvFmtHvtqjhTgjbqhWqNmNqgDNh
+common item: m
+lowercase: 13
+
+LINE LENGTH COMPARISON
+v, c, p, n, R, q, w, w, L, L, b, v, v, c, G, p, 
+D, Q, W, D, F, S, C, g, M, r, W, W, Q, W, R, R, 
+vcpnRqwwLLbvvcGpDQWDFSCgMrWWQWRR
+common item: R
+uppercase: 44
+
+LINE LENGTH COMPARISON
+g, t, N, f, B, f, l, l, 
+r, F, l, H, r, l, r, l, 
+gtNfBfllrFlHrlrl
+common item: l
+lowercase: 12
+
+LINE LENGTH COMPARISON
+Z, P, z, f, t, B, m, s, N, B, N, B, P, J, B, Z, P, m, Z, P, N, t, m, P, 
+d, G, L, s, q, b, w, q, p, q, c, n, d, V, L, L, G, p, V, G, v, q, g, V, 
+ZPzftBmsNBNBPJBZPmZPNtmPdGLsqbwqpqcndVLLGpVGvqgV
+common item: s
+lowercase: 19
+
+LINE LENGTH COMPARISON
+v, R, B, f, Q, q, q, B, Q, P, f, b, r, F, v, P, B, v, P, b, 
+h, L, D, V, D, V, D, Q, Z, V, V, t, Z, t, l, W, L, L, L, t, 
+vRBfQqqBQPfbrFvPBvPbhLDVDVDQZVVtZtlWLLLt
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+j, c, J, m, F, F, w, n, 
+h, J, V, Z, L, W, V, l, 
+jcJmFFwnhJVZLWVl
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+s, H, T, c, m, N, N, H, z, n, c, m, c, j, m, d, s, 
+B, C, r, B, C, P, C, r, B, B, q, C, F, r, q, z, b, 
+sHTcmNNHzncmcjmdsBCrBCPCrBBqCFrqzb
+common item: z
+lowercase: 26
+
+LINE LENGTH COMPARISON
+b, b, Z, R, n, G, m, N, n, B, G, G, M, N, R, T, g, C, m, 
+W, W, G, G, S, r, v, S, v, F, H, v, z, F, v, F, Q, D, F, 
+bbZRnGmNnBGGMNRTgCmWWGGSrvSvFHvzFvFQDF
+common item: G
+uppercase: 33
+
+LINE LENGTH COMPARISON
+L, j, w, p, h, p, d, P, d, L, p, L, J, V, q, f, J, 
+r, Q, z, D, z, f, r, v, Q, H, S, v, D, c, Q, r, Q, 
+LjwphpdPdLpLJVqfJrQzDzfrvQHSvDcQrQ
+common item: f
+lowercase: 6
+
+LINE LENGTH COMPARISON
+D, J, p, h, d, w, D, s, 
+n, m, b, Z, s, T, Z, M, 
+DJphdwDsnmbZsTZM
+common item: 
+
+LINE LENGTH COMPARISON
+r, d, N, r, Z, N, B, S, z, S, z, t, n, N, z, 
+W, C, c, N, p, H, l, M, w, l, w, H, W, l, M, 
+rdNrZNBSzSztnNzWCcNpHlMwlwHWlM
+common item: N
+uppercase: 40
+
+LINE LENGTH COMPARISON
+Q, q, L, G, L, J, v, L, j, t, v, Q, 
+W, h, g, H, g, c, h, H, w, H, J, w, 
+QqLGLJvLjtvQWhgHgchHwHJw
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+G, t, j, T, G, t, D, R, q, v, f, L, R, G, 
+n, r, z, s, m, Z, m, f, r, V, F, B, r, V, 
+GtjTGtDRqvfLRGnrzsmZmfrVFBrV
+common item: f
+lowercase: 6
+
+LINE LENGTH COMPARISON
+T, d, M, h, Z, r, T, T, 
+N, v, w, p, h, c, L, L, 
+TdMhZrTTNvwphcLL
+common item: h
+lowercase: 8
+
+LINE LENGTH COMPARISON
+W, n, n, m, f, f, m, D, W, n, W, P, s, 
+P, C, J, N, p, N, c, p, N, V, N, Q, p, 
+WnnmffmDWnWPsPCJNpNcpNVNQp
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+f, s, j, b, W, f, F, F, f, n, m, m, D, s, F, D, n, n, f, l, 
+S, S, d, c, z, l, M, d, T, H, T, z, T, T, R, R, B, d, t, T, 
+fsjbWfFFfnmmDsFDnnflSSdczlMdTHTzTTRRBdtT
+common item: 
+
+LINE LENGTH COMPARISON
+c, M, c, P, c, M, c, w, g, W, J, M, j, W, 
+W, h, F, W, C, C, Q, C, m, q, C, F, d, h, 
+cMcPcMcwgWJMjWWhFWCCQCmqCFdh
+common item: W
+uppercase: 49
+
+LINE LENGTH COMPARISON
+b, S, L, V, L, b, l, n, N, n, L, b, V, f, n, s, b, S, b, 
+C, C, h, S, Q, d, C, h, p, t, p, d, q, Z, r, m, C, m, Z, 
+bSLVLblnNnLbVfnsbSbCChSQdChptpdqZrmCmZ
+common item: S
+uppercase: 45
+
+LINE LENGTH COMPARISON
+D, L, G, N, f, n, G, V, D, N, D, H, b, f, 
+z, j, R, c, R, g, q, H, M, R, B, J, P, c, 
+DLGNfnGVDNDHbfzjRcRgqHMRBJPc
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+H, V, F, V, l, V, H, j, z, j, j, l, C, J, j, H, j, C, j, 
+n, v, D, r, g, g, r, g, L, d, q, z, d, d, M, q, r, z, z, 
+HVFVlVHjzjjlCJjHjCjnvDrggrgLdqzddMqrzz
+common item: z
+lowercase: 26
+
+LINE LENGTH COMPARISON
+S, S, f, B, T, m, t, N, 
+d, L, q, n, g, v, r, m, 
+SSfBTmtNdLqngvrm
+common item: m
+lowercase: 13
+
+LINE LENGTH COMPARISON
+T, w, n, N, f, P, W, W, p, B, S, B, N, t, T, 
+H, Z, C, G, l, P, H, C, Q, J, H, Z, H, P, V, 
+TwnNfPWWpBSBNtTHZCGlPHCQJHZHPV
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+p, r, v, c, c, p, F, Q, p, M, c, Q, B, 
+w, s, v, s, s, s, h, d, w, S, T, P, D, 
+prvccpFQpMcQBwsvssshdwSTPD
+common item: v
+lowercase: 22
+
+LINE LENGTH COMPARISON
+q, b, G, H, V, b, N, J, G, q, 
+w, d, P, g, D, r, T, s, D, J, 
+qbGHVbNJGqwdPgDrTsDJ
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+f, G, b, G, q, q, l, G, G, H, f, l, q, L, 
+l, z, Z, B, B, r, R, c, r, t, r, Z, l, p, 
+fGbGqqlGGHflqLlzZBBrRcrtrZlp
+common item: l
+lowercase: 12
+
+LINE LENGTH COMPARISON
+f, C, S, P, h, l, t, M, 
+B, m, P, m, b, d, g, d, 
+fCSPhltMBmPmbdgd
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+D, j, v, J, J, s, c, v, T, s, H, H, D, 
+b, W, z, B, W, s, W, b, d, w, g, L, B, 
+DjvJJscvTsHHDbWzBWsWbdwgLB
+common item: s
+lowercase: 19
+
+LINE LENGTH COMPARISON
+V, V, H, D, Z, v, T, p, p, R, c, J, V, F, F, p, p, v, v, R, J, D, J, 
+q, M, S, G, q, C, t, Z, d, t, h, t, t, r, n, t, h, S, Z, M, G, C, r, 
+VVHDZvTppRcJVFFppvvRJDJqMSGqCtZdthttrnthSZMGCr
+common item: Z
+uppercase: 52
+
+LINE LENGTH COMPARISON
+Z, c, S, r, S, d, r, h, D, j, B, D, D, C, m, Z, d, Z, m, Z, j, 
+h, w, V, H, w, q, V, V, s, M, w, g, s, w, V, V, w, M, f, h, w, 
+ZcSrSdrhDjBDDCmZdZmZjhwVHwqVVsMwgswVVwMfhw
+common item: h
+lowercase: 8
+
+LINE LENGTH COMPARISON
+P, N, v, z, T, P, N, b, n, z, c, P, b, G, Q, N, J, T, v, 
+q, w, s, W, g, V, g, V, M, M, W, p, Q, q, w, g, H, p, p, 
+PNvzTPNbnzcPbGQNJTvqwsWgVgVMMWpQqwgHpp
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+J, T, P, G, P, T, z, N, t, t, n, b, R, T, P, l, P, t, N, N, R, l, 
+F, r, F, m, B, c, m, D, l, j, j, m, B, F, S, C, m, L, Z, Z, B, r, 
+JTPGPTzNttnbRTPlPtNNRlFrFmBcmDljjmBFSCmLZZBr
+common item: l
+lowercase: 12
+
+LINE LENGTH COMPARISON
+m, N, v, R, R, C, V, M, t, N, R, d, F, N, t, M, t, B, 
+H, H, p, r, p, H, g, J, g, J, W, w, p, B, n, p, r, g, 
+mNvRRCVMtNRdFNtMtBHHprpHgJgJWwpBnprg
+common item: 
+
+LINE LENGTH COMPARISON
+L, Z, D, D, l, S, L, l, T, s, l, D, f, b, 
+c, p, J, J, W, n, d, w, c, s, c, n, w, r, 
+LZDDlSLlTslDfbcpJJWndwcscnwr
+common item: s
+lowercase: 19
+
+LINE LENGTH COMPARISON
+q, d, Z, Z, G, S, D, h, 
+M, V, R, C, G, t, m, C, 
+qdZZGSDhMVRCGtmC
+common item: G
+uppercase: 33
+
+LINE LENGTH COMPARISON
+V, G, F, j, j, g, B, S, h, G, 
+d, G, z, Q, c, z, c, G, R, G, 
+VGFjjgBShGdGzQczcGRG
+common item: G
+uppercase: 33
+
+LINE LENGTH COMPARISON
+M, p, p, q, C, D, f, C, M, w, f, L, D, f, v, N, m, r, 
+t, W, s, t, R, c, M, P, z, R, M, R, s, R, s, P, Q, S, 
+MppqCDfCMwfLDfvNmrtWstRcMPzRMRsRsPQS
+common item: M
+uppercase: 39
+
+LINE LENGTH COMPARISON
+N, w, D, C, f, f, L, p, p, b, q, q, r, q, v, 
+T, B, n, g, S, b, n, B, H, g, l, Z, l, l, H, 
+NwDCffLppbqqrqvTBngSbnBHglZllH
+common item: b
+lowercase: 2
+
+LINE LENGTH COMPARISON
+v, d, l, l, J, V, D, z, m, V, D, V, q, v, v, W, v, d, q, J, l, c, W, 
+r, C, s, f, C, s, f, S, S, s, S, J, f, C, S, f, Q, Q, C, C, b, C, Q, 
+vdllJVDzmVDVqvvWvdqJlcWrCsfCsfSSsSJfCSfQQCCbCQ
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+j, n, T, H, Z, P, Z, H, M, j, Z, h, M, j, T, p, H, g, M, p, g, n, 
+b, N, q, B, s, t, n, f, r, t, S, S, r, B, S, N, s, s, C, r, f, N, 
+jnTHZPZHMjZhMjTpHgMpgnbNqBstnfrtSSrBSNssCrfN
+common item: n
+lowercase: 14
+
+LINE LENGTH COMPARISON
+L, H, L, T, F, L, j, T, M, T, T, T, w, j, H, h, p, H, T, 
+c, w, m, D, c, W, V, D, l, v, R, D, m, v, q, w, W, l, W, 
+LHLTFLjTMTTTwjHhpHTcwmDcWVDlvRDmvqwWlW
+common item: w
+lowercase: 23
+
+LINE LENGTH COMPARISON
+r, q, Q, s, S, S, t, d, m, s, d, 
+L, q, l, N, N, P, G, l, G, l, V, 
+rqQsSStdmsdLqlNNPGlGlV
+common item: q
+lowercase: 17
+
+LINE LENGTH COMPARISON
+F, p, F, p, z, J, N, T, c, H, z, R, H, R, H, 
+l, G, w, F, V, L, F, B, L, F, G, V, v, l, w, 
+FpFpzJNTcHzRHRHlGwFVLFBLFGVvlw
+common item: F
+uppercase: 32
+
+LINE LENGTH COMPARISON
+W, C, C, j, W, R, N, J, T, J, 
+W, h, Q, h, b, h, r, b, n, d, 
+WCCjWRNJTJWhQhbhrbnd
+common item: W
+uppercase: 49
+
+LINE LENGTH COMPARISON
+j, s, Q, j, f, r, R, T, R, w, z, S, s, R, T, 
+g, N, c, h, l, n, l, h, q, c, n, l, Q, m, Q, 
+jsQjfrRTRwzSsRTgNchlnlhqcnlQmQ
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+d, F, D, t, d, F, B, D, d, d, H, L, J, p, V, p, H, H, t, V, b, t, H, F, 
+C, W, l, W, l, G, l, N, l, m, G, g, g, N, q, g, g, l, m, c, c, h, q, b, 
+dFDtdFBDddHLJpVpHHtVbtHFCWlWlGlNlmGggNqgglmcchqb
+common item: b
+lowercase: 2
+
+LINE LENGTH COMPARISON
+d, L, D, H, M, V, d, L, t, B, B, D, B, F, V, J, B, F, t, h, t, J, H, 
+R, T, v, s, M, S, v, s, T, r, T, S, R, v, P, P, j, P, z, S, w, R, P, 
+dLDHMVdLtBBDBFVJBFthtJHRTvsMSvsTrTSRvPPjPzSwRP
+common item: M
+uppercase: 39
+
+LINE LENGTH COMPARISON
+C, S, P, p, S, r, L, l, r, l, P, r, P, c, h, L, n, S, l, 
+b, D, b, b, R, t, t, D, V, h, b, G, R, D, D, J, R, t, D, 
+CSPpSrLlrlPrPchLnSlbDbbRttDVhbGRDDJRtD
+common item: h
+lowercase: 8
+
+LINE LENGTH COMPARISON
+f, z, f, v, m, z, T, M, m, f, s, F, s, z, s, H, Z, s, H, M, H, 
+V, f, w, t, b, j, B, D, D, G, j, t, R, B, j, Q, Q, G, G, J, b, 
+fzfvmzTMmfsFszsHZsHMHVfwtbjBDDGjtRBjQQGGJb
+common item: f
+lowercase: 6
+
+LINE LENGTH COMPARISON
+H, m, v, m, T, F, m, q, m, T, s, H, q, z, z, z, z, d, T, s, M, M, 
+S, c, n, d, c, c, d, L, p, p, n, L, C, S, P, c, C, L, r, V, g, r, 
+HmvmTFmqmTsHqzzzzdTsMMScndccdLppnLCSPcCLrVgr
+common item: d
+lowercase: 4
+
+LINE LENGTH COMPARISON
+p, f, M, f, l, R, n, f, r, n, j, r, p, j, n, F, z, D, p, f, D, M, m, M, 
+L, R, T, L, Z, V, T, g, L, s, v, d, Z, g, L, L, Z, H, S, V, W, Z, R, d, 
+pfMflRnfrnjrpjnFzDpfDMmMLRTLZVTgLsvdZgLLZHSVWZRd
+common item: R
+uppercase: 44
+
+LINE LENGTH COMPARISON
+t, B, G, N, h, w, P, G, c, N, B, B, W, w, 
+Z, d, d, s, S, T, T, P, g, V, L, P, d, T, 
+tBGNhwPGcNBBWwZddsSTTPgVLPdT
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+J, w, t, h, t, w, b, b, h, N, B, Q, h, w, h, b, B, C, 
+r, z, p, n, p, r, n, W, n, p, r, l, z, W, l, C, l, D, 
+JwthtwbbhNBQhwhbBCrzpnprnWnprlzWlClD
+common item: 
+
+LINE LENGTH COMPARISON
+P, P, n, Z, Z, j, n, F, N, D, j, l, 
+J, J, h, t, M, d, d, f, T, T, d, D, 
+PPnZZjnFNDjlJJhtMddfTTdD
+common item: D
+uppercase: 30
+
+LINE LENGTH COMPARISON
+Q, G, L, H, F, W, v, Q, 
+J, t, z, f, p, v, C, t, 
+QGLHFWvQJtzfpvCt
+common item: v
+lowercase: 22
+
+LINE LENGTH COMPARISON
+s, w, q, S, m, m, Q, W, L, Q, w, F, W, L, w, w, R, c, 
+q, N, N, B, n, n, b, g, P, q, b, P, N, b, g, l, V, Z, 
+swqSmmQWLQwFWLwwRcqNNBnnbgPqbPNbglVZ
+common item: q
+lowercase: 17
+
+LINE LENGTH COMPARISON
+G, C, L, S, j, j, Z, G, Z, h, p, v, G, t, B, g, j, 
+J, l, n, J, D, h, h, J, M, V, D, P, n, J, l, J, P, 
+GCLSjjZGZhpvGtBgjJlnJDhhJMVDPnJlJP
+common item: h
+lowercase: 8
+
+LINE LENGTH COMPARISON
+m, N, t, Q, Q, w, N, z, Q, R, H, W, 
+d, J, H, n, P, T, s, d, d, l, l, n, 
+mNtQQwNzQRHWdJHnPTsddlln
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+z, Q, r, f, m, b, t, N, b, c, Q, c, r, z, m, r, R, 
+B, Z, q, B, c, v, p, j, S, G, L, Z, G, L, Z, B, B, 
+zQrfmbtNbcQcrzmrRBZqBcvpjSGLZGLZBB
+common item: c
+lowercase: 3
+
+LINE LENGTH COMPARISON
+z, G, N, z, g, s, j, D, s, s, 
+v, N, b, P, l, W, J, f, J, q, 
+zGNzgsjDssvNbPlWJfJq
+common item: N
+uppercase: 40
+
+LINE LENGTH COMPARISON
+R, L, M, V, S, R, M, L, h, C, L, Z, S, M, Z, H, D, S, 
+J, W, v, p, c, q, f, b, f, h, v, p, J, q, c, W, P, v, 
+RLMVSRMLhCLZSMZHDSJWvpcqfbfhvpJqcWPv
+common item: h
+lowercase: 8
+
+LINE LENGTH COMPARISON
+d, M, V, H, L, F, H, L, Z, M, L, R, L, L, F, R, H, H, H, V, Z, M, 
+g, D, T, n, t, g, s, t, G, w, z, n, z, G, G, n, z, j, D, F, w, G, 
+dMVHLFHLZMLRLLFRHHHVZMgDTntgstGwznzGGnzjDFwG
+common item: F
+uppercase: 32
+
+LINE LENGTH COMPARISON
+w, C, L, C, H, L, B, w, z, B, t, Q, R, L, H, L, 
+b, N, F, F, f, d, q, d, D, q, V, r, V, f, B, N, 
+wCLCHLBwzBtQRLHLbNFFfdqdDqVrVfBN
+common item: B
+uppercase: 28
+
+LINE LENGTH COMPARISON
+J, G, v, l, j, m, g, G, Z, v, M, l, 
+f, D, R, R, n, n, n, Z, n, f, N, D, 
+JGvljmgGZvMlfDRRnnnZnfND
+common item: Z
+uppercase: 52
+
+LINE LENGTH COMPARISON
+G, p, p, R, l, g, J, l, S, l, l, S, g, j, M, s, m, l, l, p, T, j, 
+c, C, L, c, z, W, z, t, P, W, P, w, w, w, z, W, T, h, t, c, Q, h, 
+GppRlgJlSllSgjMsmllpTjcCLczWztPWPwwwzWThtcQh
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+W, v, H, b, v, v, W, n, F, H, s, z, 
+D, R, S, l, t, c, C, c, t, C, F, D, 
+WvHbvvWnFHszDRSltcCctCFD
+common item: F
+uppercase: 32
+
+LINE LENGTH COMPARISON
+g, C, m, J, m, C, C, P, T, P, q, p, g, r, 
+Z, t, j, d, R, t, D, R, p, l, c, S, j, S, 
+gCmJmCCPTPqpgrZtjdRtDRplcSjS
+common item: p
+lowercase: 16
+
+LINE LENGTH COMPARISON
+r, J, J, r, Q, P, P, J, Q, m, r, m, r, h, G, T, 
+z, n, C, f, L, M, M, b, f, v, W, f, b, C, W, Q, 
+rJJrQPPJQmrmrhGTznCfLMMbfvWfbCWQ
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+T, q, B, W, t, T, b, F, B, N, N, R, R, t, 
+w, Q, p, J, J, v, v, v, Z, P, p, T, S, Q, 
+TqBWtTbFBNNRRtwQpJJvvvZPpTSQ
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+f, R, M, f, s, M, s, s, r, G, h, 
+S, m, M, w, S, Q, v, v, Z, J, m, 
+fRMfsMssrGhSmMwSQvvZJm
+common item: M
+uppercase: 39
+
+LINE LENGTH COMPARISON
+V, g, g, c, V, l, s, C, g, H, 
+n, V, F, n, n, d, b, b, n, R, 
+VggcVlsCgHnVFnndbbnR
+common item: V
+uppercase: 48
+
+LINE LENGTH COMPARISON
+N, d, r, S, S, W, B, N, P, P, S, W, W, H, P, P, 
+l, w, l, L, Z, H, L, Z, L, M, h, j, l, L, L, H, 
+NdrSSWBNPPSWWHPPlwlLZHLZLMhjlLLH
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+p, V, p, t, M, T, g, V, T, 
+z, L, w, Z, T, z, l, b, F, 
+pVptMTgVTzLwZTzlbF
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+q, s, R, m, R, J, t, s, M, v, M, q, g, q, g, R, v, 
+C, d, c, S, r, W, S, P, c, W, r, D, m, m, d, B, N, 
+qsRmRJtsMvMqgqgRvCdcSrWSPcWrDmmdBN
+common item: m
+lowercase: 13
+
+LINE LENGTH COMPARISON
+n, b, J, n, f, q, W, c, m, C, M, n, 
+S, B, S, H, w, z, W, B, s, H, H, z, 
+nbJnfqWcmCMnSBSHwzWBsHHz
+common item: W
+uppercase: 49
+
+LINE LENGTH COMPARISON
+d, V, p, d, v, d, p, p, d, p, t, p, p, D, 
+l, v, l, H, c, c, z, S, g, N, c, g, w, w, 
+dVpdvdppdptppDlvlHcczSgNcgww
+common item: v
+lowercase: 22
+
+LINE LENGTH COMPARISON
+V, G, T, d, T, V, t, G, t, R, L, F, P, T, D, 
+b, c, f, C, m, m, c, C, Q, J, Q, j, c, r, T, 
+VGTdTVtGtRLFPTDbcfCmmcCQJQjcrT
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+V, T, j, r, j, r, j, T, l, T, j, Q, 
+M, d, p, G, r, W, M, S, H, v, S, G, 
+VTjrjrjTlTjQMdpGrWMSHvSG
+common item: r
+lowercase: 18
+
+LINE LENGTH COMPARISON
+w, n, N, J, b, D, m, t, t, n, w, n, h, N, w, c, J, m, N, 
+G, d, v, W, v, M, S, f, v, M, f, h, S, S, p, p, S, d, p, 
+wnNJbDmttnwnhNwcJmNGdvWvMSfvMfhSSppSdp
+common item: h
+lowercase: 8
+
+LINE LENGTH COMPARISON
+J, z, n, F, n, N, s, G, n, z, z, G, F, D, J, s, F, N, m, 
+L, g, V, V, Q, Z, B, l, L, Z, j, Q, T, L, T, j, T, l, s, 
+JznFnNsGnzzGFDJsFNmLgVVQZBlLZjQTLTjTls
+common item: s
+lowercase: 19
+
+LINE LENGTH COMPARISON
+h, p, n, g, H, w, c, p, W, H, g, 
+j, j, f, h, z, T, J, B, f, B, B, 
+hpngHwcpWHgjjfhzTJBfBB
+common item: h
+lowercase: 8
+
+LINE LENGTH COMPARISON
+R, F, F, b, F, l, Q, l, S, d, R, s, b, R, Q, Q, M, G, P, R, G, d, S, G, 
+j, B, v, v, N, T, v, z, Z, M, B, v, j, z, B, B, T, J, T, v, M, B, B, T, 
+RFFbFlQlSdRsbRQQMGPRGdSGjBvvNTvzZMBvjzBBTJTvMBBT
+common item: M
+uppercase: 39
+
+LINE LENGTH COMPARISON
+G, P, S, S, P, D, D, D, F, z, G, l, G, G, R, z, L, z, G, G, P, R, 
+W, q, n, p, r, c, g, C, H, w, C, H, p, w, H, W, V, c, n, c, L, V, 
+GPSSPDDDFzGlGGRzLzGGPRWqnprcgCHwCHpwHWVcncLV
+common item: L
+uppercase: 38
+
+LINE LENGTH COMPARISON
+L, L, l, L, G, f, f, Q, 
+L, P, R, T, h, R, w, P, 
+LLlLGffQLPRThRwP
+common item: L
+uppercase: 38
+
+LINE LENGTH COMPARISON
+M, p, Z, j, b, m, z, n, W, q, m, q, Z, z, n, m, z, m, p, Z, q, Z, n, M, 
+R, g, P, B, C, T, P, f, g, R, T, T, w, T, j, h, w, B, P, P, g, h, j, P, 
+MpZjbmznWqmqZznmzmpZqZnMRgPBCTPfgRTTwTjhwBPPghjP
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+V, n, Z, p, M, s, M, M, J, n, W, s, m, n, J, p, J, m, z, 
+r, t, F, l, G, Q, F, r, H, G, v, S, v, f, H, S, t, N, V, 
+VnZpMsMMJnWsmnJpJmzrtFlGQFrHGvSvfHStNV
+common item: V
+uppercase: 48
+
+LINE LENGTH COMPARISON
+M, Q, q, H, M, Q, P, n, q, m, p, 
+D, d, T, L, L, R, n, D, j, s, j, 
+MQqHMQPnqmpDdTLLRnDjsj
+common item: n
+lowercase: 14
+
+LINE LENGTH COMPARISON
+N, G, F, z, w, g, t, L, B, t, F, F, G, r, r, C, t, z, g, f, g, C, N, g, 
+S, s, d, T, D, S, S, T, s, d, s, s, j, D, d, S, l, Z, R, j, T, S, B, s, 
+NGFzwgtLBtFFGrrCtzgfgCNgSsdTDSSTsdssjDdSlZRjTSBs
+common item: B
+uppercase: 28
+
+LINE LENGTH COMPARISON
+z, C, w, N, L, t, h, f, r, b, C, g, z, z, 
+h, q, h, m, c, c, J, P, h, Q, H, V, m, V, 
+zCwNLthfrbCgzzhqhmccJPhQHVmV
+common item: h
+lowercase: 8
+
+LINE LENGTH COMPARISON
+S, n, d, B, V, c, g, d, q, c, R, B, R, c, d, P, B, B, c, V, c, 
+Q, T, S, S, M, L, M, l, T, s, s, M, N, M, W, s, H, M, s, L, Q, 
+SndBVcgdqcRBRcdPBBcVcQTSSMLMlTssMNMWsHMsLQ
+common item: S
+uppercase: 45
+
+LINE LENGTH COMPARISON
+G, m, J, v, Z, v, h, q, p, v, Z, t, 
+N, w, w, W, L, T, T, L, w, M, M, m, 
+GmJvZvhqpvZtNwwWLTTLwMMm
+common item: m
+lowercase: 13
+
+LINE LENGTH COMPARISON
+J, F, J, p, z, F, G, Z, q, j, v, h, G, Z, 
+c, j, B, P, c, C, B, B, P, n, n, V, B, c, 
+JFJpzFGZqjvhGZcjBPcCBBPnnVBc
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+r, J, W, b, q, T, v, w, v, J, N, b, 
+P, D, P, P, v, L, c, Z, v, P, D, p, 
+rJWbqTvwvJNbPDPPvLcZvPDp
+common item: v
+lowercase: 22
+
+LINE LENGTH COMPARISON
+Q, M, n, f, B, s, j, m, F, 
+P, L, c, H, R, D, f, P, p, 
+QMnfBsjmFPLcHRDfPp
+common item: f
+lowercase: 6
+
+LINE LENGTH COMPARISON
+l, Q, l, M, l, m, t, F, s, M, M, B, s, t, l, j, l, n, G, h, t, M, h, m, 
+G, N, q, J, q, T, c, W, N, N, b, W, d, G, w, d, N, N, J, C, r, T, r, q, 
+lQlMlmtFsMMBstljlnGhtMhmGNqJqTcWNNbWdGwdNNJCrTrq
+common item: G
+uppercase: 33
+
+LINE LENGTH COMPARISON
+L, c, j, c, N, C, Q, N, Q, 
+W, D, p, R, D, j, R, T, j, 
+LcjcNCQNQWDpRDjRTj
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+v, W, v, s, z, V, V, S, s, B, G, W, s, 
+T, J, R, F, H, R, J, T, T, S, T, R, J, 
+vWvszVVSsBGWsTJRFHRJTTSTRJ
+common item: S
+uppercase: 45
+
+LINE LENGTH COMPARISON
+v, v, G, b, t, q, b, G, V, V, B, q, t, z, b, q, v, B, d, z, V, 
+L, W, N, L, C, l, w, n, w, M, L, W, l, Q, N, M, f, d, P, Q, P, 
+vvGbtqbGVVBqtzbqvBdzVLWNLClwnwMLWlQNMfdPQP
+common item: d
+lowercase: 4
+
+LINE LENGTH COMPARISON
+T, W, B, Z, s, W, r, j, z, Z, z, W, B, r, B, s, r, r, s, T, L, N, 
+N, J, v, F, n, J, V, m, l, S, F, F, Q, n, G, p, m, n, S, J, J, S, 
+TWBZsWrjzZzWBrBsrrsTLNNJvFnJVmlSFFQnGpmnSJJS
+common item: 
+
+LINE LENGTH COMPARISON
+q, d, C, g, g, d, q, q, q, h, h, q, w, h, R, b, C, w, b, C, P, q, h, 
+l, J, F, P, P, G, J, Q, V, v, v, v, n, p, V, V, m, P, n, n, F, v, S, 
+qdCggdqqqhhqwhRbCwbCPqhlJFPPGJQVvvvnpVVmPnnFvS
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+f, f, g, C, f, g, h, D, q, D, d, C, 
+s, G, W, Z, j, T, s, L, r, s, f, W, 
+ffgCfghDqDdCsGWZjTsLrsfW
+common item: f
+lowercase: 6
+
+LINE LENGTH COMPARISON
+Q, z, Q, S, S, Q, m, z, S, s, L, Q, c, L, m, r, c, s, L, z, c, c, 
+g, q, C, n, w, q, C, t, Z, D, n, D, n, r, Z, w, g, n, q, T, T, T, 
+QzQSSQmzSsLQcLmrcsLzccgqCnwqCtZDnDnrZwgnqTTT
+common item: r
+lowercase: 18
+
+LINE LENGTH COMPARISON
+h, F, R, H, H, R, P, R, P, M, t, W, P, G, V, P, R, l, M, l, j, R, P, 
+C, g, W, B, B, D, T, g, J, B, g, n, w, q, T, Z, D, B, Z, D, W, D, B, 
+hFRHHRPRPMtWPGVPRlMljRPCgWBBDTgJBgnwqTZDBZDWDB
+common item: W
+uppercase: 49
+
+LINE LENGTH COMPARISON
+j, P, j, P, H, R, M, j, j, v, d, j, V, F, h, d, 
+N, f, b, s, b, b, Q, f, b, c, d, d, m, N, t, L, 
+jPjPHRMjjvdjVFhdNfbsbbQfbcddmNtL
+common item: d
+lowercase: 4
+
+LINE LENGTH COMPARISON
+j, J, l, T, q, M, q, J, t, d, z, t, J, q, z, c, S, J, S, l, T, d, S, l, 
+p, r, L, s, R, R, H, w, c, R, R, r, s, r, H, b, r, n, n, R, H, s, H, L, 
+jJlTqMqJtdztJqzcSJSlTdSlprLsRRHwcRRrsrHbrnnRHsHL
+common item: c
+lowercase: 3
+
+LINE LENGTH COMPARISON
+V, V, V, M, W, N, N, W, m, N, 
+m, L, n, P, L, R, H, r, L, p, 
+VVVMWNNWmNmLnPLRHrLp
+common item: m
+lowercase: 13
+
+LINE LENGTH COMPARISON
+N, G, h, f, v, v, V, W, B, N, f, N, N, C, N, C, 
+Q, T, M, q, j, z, g, T, Q, B, S, S, S, q, l, l, 
+NGhfvvVWBNfNNCNCQTMqjzgTQBSSSqll
+common item: B
+uppercase: 28
+
+LINE LENGTH COMPARISON
+S, S, S, R, M, R, S, R, p, n, M, R, H, L, 
+q, W, L, f, P, l, D, G, l, G, W, l, d, D, 
+SSSRMRSRpnMRHLqWLfPlDGlGWldD
+common item: 
+
+LINE LENGTH COMPARISON
+h, b, N, t, l, m, v, r, N, r, s, 
+V, D, W, s, G, P, f, P, f, q, G, 
+hbNtlmvrNrsVDWsGPfPfqG
+common item: 
+
+
+LINE LENGTH COMPARISON
+j, v, b, B, N, m, v, l, J, j, 
+R, c, C, z, H, F, p, p, C, J, 
+jvbBNmvlJjRcCzHFppCJ
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+h, h, W, W, P, j, n, B, G, B, G, n, j, q, B, W, S, n, h, h, s, 
+N, L, l, l, L, N, c, L, c, z, J, c, q, c, T, l, L, T, l, f, l, 
+hhWWPjnBGBGnjqBWSnhhsNLllLNcLczJcqcTlLTlfl
+common item: q
+lowercase: 17
+
+LINE LENGTH COMPARISON
+F, H, v, F, F, M, H, w, d, m, v, r, D, b, w, C, b, b, v, H, w, d, H, n, 
+Z, T, M, L, z, T, N, T, c, z, f, l, J, T, Z, c, l, z, N, L, l, L, c, J, 
+FHvFFMHwdmvrDbwCbbvHwdHnZTMLzTNTczflJTZclzNLlLcJ
+common item: M
+uppercase: 39
+
+LINE LENGTH COMPARISON
+H, d, F, F, v, d, D, v, p, C, D, d, r, n, w, r, 
+G, h, B, Q, h, W, R, R, p, s, j, Q, W, W, Q, W, 
+HdFFvdDvpCDdrnwrGhBQhWRRpsjQWWQW
+common item: p
+lowercase: 16
+
+LINE LENGTH COMPARISON
+s, B, s, v, t, J, t, d, R, d, j, N, 
+b, W, W, r, T, l, l, q, l, N, g, g, 
+sBsvtJtdRdjNbWWrTllqlNgg
+common item: 
+
+LINE LENGTH COMPARISON
+n, S, Z, S, n, P, P, Z, z, M, S, n, S, l, S, c, 
+W, W, W, g, r, V, W, C, r, q, g, r, W, M, W, r, 
+nSZSnPPZzMSnSlScWWWgrVWCrqgrWMWr
+common item: M
+uppercase: 39
+
+LINE LENGTH COMPARISON
+l, z, S, n, c, Q, c, L, Z, L, z, l, w, D, 
+v, t, d, D, d, F, d, F, J, J, h, H, v, J, 
+lzSncQcLZLzlwDvtdDdFdFJJhHvJ
+common item: 
+
+LINE LENGTH COMPARISON
+l, p, s, T, L, D, l, T, t, F, t, l, W, H, 
+P, D, v, v, g, P, f, g, M, r, Q, Q, J, M, 
+lpsTLDlTtFtlWHPDvvgPfgMrQQJM
+common item: D
+uppercase: 30
+
+LINE LENGTH COMPARISON
+z, m, N, b, z, c, N, j, z, l, d, j, w, m, b, d, b, h, h, j, c, j, 
+R, g, f, w, r, g, v, M, w, M, M, S, R, J, S, v, Q, Q, v, r, R, f, 
+zmNbzcNjzldjwmbdbhhjcjRgfwrgvMwMMSRJSvQQvrRf
+common item: w
+lowercase: 23
+
+LINE LENGTH COMPARISON
+Z, h, j, q, c, j, z, N, h, m, z, N, q, B, q, N, z, n, m, c, 
+W, H, p, l, C, F, G, n, p, C, t, F, s, G, W, H, H, W, s, H, 
+ZhjqcjzNhmzNqBqNznmcWHplCFGnpCtFsGWHHWsH
+common item: n
+lowercase: 14
+
+LINE LENGTH COMPARISON
+Z, P, G, Q, B, F, H, F, b, h, 
+S, r, H, q, t, f, S, r, S, r, 
+ZPGQBFHFbhSrHqtfSrSr
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+n, M, d, z, n, z, z, M, D, T, n, j, M, Q, 
+r, M, W, t, r, M, p, t, p, l, q, p, q, S, 
+nMdznzzMDTnjMQrMWtrMptplqpqS
+common item: M
+uppercase: 39
+
+LINE LENGTH COMPARISON
+w, z, j, c, z, J, m, c, c, T, J, C, m, c, 
+V, g, h, Z, B, J, b, P, B, Q, B, b, V, h, 
+wzjczJmccTJCmcVghZBJbPBQBbVh
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+w, L, L, M, J, b, q, S, B, B, n, n, J, h, b, v, b, 
+F, S, S, R, R, l, z, t, T, r, H, z, r, r, r, r, d, 
+wLLMJbqSBBnnJhbvbFSSRRlztTrHzrrrrd
+common item: S
+uppercase: 45
+
+LINE LENGTH COMPARISON
+Q, N, N, G, V, P, j, W, P, G, V, 
+q, l, t, T, H, W, C, q, C, d, H, 
+QNNGVPjWPGVqltTHWCqCdH
+common item: W
+uppercase: 49
+
+LINE LENGTH COMPARISON
+s, j, N, G, m, m, G, V, G, g, Q, N, G, D, V, m, s, V, p, g, q, Q, V, p, 
+M, D, h, v, b, L, w, M, f, f, Z, f, h, Z, b, L, n, f, L, L, L, Z, w, b, 
+sjNGmmGVGgQNGDVmsVpgqQVpMDhvbLwMffZfhZbLnfLLLZwb
+common item: D
+uppercase: 30
+
+LINE LENGTH COMPARISON
+g, Q, L, c, Q, r, M, t, B, P, 
+d, w, S, B, s, S, l, m, B, m, 
+gQLcQrMtBPdwSBsSlmBm
+common item: B
+uppercase: 28
+
+LINE LENGTH COMPARISON
+T, f, C, p, T, J, n, T, b, f, q, 
+g, s, g, w, g, p, p, s, S, z, p, 
+TfCpTJnTbfqgsgwgppsSzp
+common item: p
+lowercase: 16
+
+LINE LENGTH COMPARISON
+j, V, b, v, T, n, v, W, f, J, n, J, j, j, b, f, C, j, W, W, j, 
+r, F, P, r, L, M, t, c, D, P, g, L, M, Q, Q, R, t, g, Z, V, F, 
+jVbvTnvWfJnJjjbfCjWWjrFPrLMtcDPgLMQQRtgZVF
+common item: V
+uppercase: 48
+
+LINE LENGTH COMPARISON
+g, w, p, H, v, p, g, w, n, g, G, H, c, n, v, N, v, g, n, 
+m, s, q, C, z, m, M, z, l, f, q, m, m, q, z, H, H, C, m, 
+gwpHvpgwngGHcnvNvgnmsqCzmMzlfqmmqzHHCm
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+J, r, d, S, L, d, B, V, P, R, D, t, R, t, P, f, P, P, 
+z, C, J, h, j, q, m, l, j, z, m, m, q, s, z, z, s, M, 
+JrdSLdBVPRDtRtPfPPzCJhjqmljzmmqszzsM
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+S, W, L, D, D, t, V, d, r, Z, W, t, S, B, R, Z, f, R, 
+c, w, g, F, G, n, p, N, F, p, n, T, n, W, n, T, v, T, 
+SWLDDtVdrZWtSBRZfRcwgFGnpNFpnTnWnTvT
+common item: W
+uppercase: 49
+
+LINE LENGTH COMPARISON
+r, p, c, n, H, r, w, r, h, W, c, c, 
+N, Z, D, D, B, B, g, B, V, C, S, W, 
+rpcnHrwrhWccNZDDBBgBVCSW
+common item: W
+uppercase: 49
+
+LINE LENGTH COMPARISON
+n, m, z, F, R, R, j, F, 
+m, m, J, Q, N, D, J, C, 
+nmzFRRjFmmJQNDJC
+common item: m
+lowercase: 13
+
+LINE LENGTH COMPARISON
+q, z, n, M, l, q, G, n, z, R, t, R, G, v, q, G, F, R, 
+P, r, d, M, h, w, T, p, T, L, f, L, c, p, p, L, H, p, 
+qznMlqGnzRtRGvqGFRPrdMhwTpTLfLcppLHp
+common item: M
+uppercase: 39
+
+LINE LENGTH COMPARISON
+w, t, h, v, b, m, h, m, C, h, W, M, R, 
+J, L, J, z, n, g, Z, p, z, L, L, N, C, 
+wthvbmhmChWMRJLJzngZpzLLNC
+common item: C
+uppercase: 29
+
+LINE LENGTH COMPARISON
+S, s, d, B, V, j, S, T, j, B, d, f, f, B, F, f, c, S, d, V, H, f, T, r, 
+n, D, Z, G, p, Q, g, N, Z, H, N, n, L, Z, G, p, J, n, g, J, G, L, n, g, 
+SsdBVjSTjBdffBFfcSdVHfTrnDZGpQgNZHNnLZGpJngJGLng
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+s, S, d, T, c, d, V, S, c, d, c, r, c, c, j, c, r, B, P, r, B, S, j, c, 
+v, m, R, R, w, l, W, P, h, w, m, q, t, g, W, h, M, P, t, m, M, M, q, R, 
+sSdTcdVScdcrccjcrBPrBSjcvmRRwlWPhwmqtgWhMPtmMMqR
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+C, J, J, B, d, B, C, r, H, d, B, h, t, R, H, c, t, B, Q, h, R, M, r, B, 
+w, Z, p, w, Z, W, N, Z, N, S, N, T, w, S, N, p, Q, W, p, Z, s, S, S, W, 
+CJJBdBCrHdBhtRHctBQhRMrBwZpwZWNZNSNTwSNpQWpZsSSW
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+L, V, F, n, v, n, b, D, j, L, s, D, P, s, P, q, F, F, v, P, v, D, n, 
+T, z, S, T, w, N, w, P, Z, p, S, m, p, S, p, g, m, g, Z, W, N, T, W, 
+LVFnvnbDjLsDPsPqFFvPvDnTzSTwNwPZpSmpSpgmgZWNTW
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+L, j, l, f, l, b, F, j, s, v, V, l, 
+r, H, c, r, H, t, r, f, c, C, h, H, 
+LjlflbFjsvVlrHcrHtrfcChH
+common item: f
+lowercase: 6
+
+LINE LENGTH COMPARISON
+t, V, L, J, G, N, R, t, f, B, B, N, G, B, 
+r, f, r, b, z, m, f, h, P, s, r, s, P, C, 
+tVLJGNRtfBBNGBrfrbzmfhPsrsPC
+common item: f
+lowercase: 6
+
+LINE LENGTH COMPARISON
+D, W, W, D, Q, H, Q, g, l, l, S, F, q, F, 
+z, c, s, J, m, z, z, S, S, z, m, r, r, s, 
+DWWDQHQgllSFqFzcsJmzzSSzmrrs
+common item: S
+uppercase: 45
+
+LINE LENGTH COMPARISON
+M, J, F, Q, D, g, M, q, n, H, l, D, v, F, 
+d, G, N, B, N, N, Z, G, N, V, V, v, j, V, 
+MJFQDgMqnHlDvFdGNBNNZGNVVvjV
+common item: v
+lowercase: 22
+
+LINE LENGTH COMPARISON
+w, n, N, w, G, C, B, B, F, N, W, B, q, j, F, B, n, L, L, G, 
+V, D, H, h, H, m, D, P, H, v, Z, T, j, T, v, T, r, P, v, D, 
+wnNwGCBBFNWBqjFBnLLGVDHhHmDPHvZTjTvTrPvD
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+b, M, b, t, t, V, S, c, M, J, Q, t, d, g, S, g, s, t, b, J, R, S, 
+P, m, r, T, H, m, H, m, r, m, m, S, D, Z, l, r, P, r, P, D, h, v, 
+bMbttVScMJQtdgSgstbJRSPmrTHmHmrmmSDZlrPrPDhv
+common item: S
+uppercase: 45
+
+LINE LENGTH COMPARISON
+c, M, b, g, p, s, b, V, b, z, b, d, R, M, R, 
+F, W, L, q, z, B, f, L, G, w, w, w, w, f, W, 
+cMbgpsbVbzbdRMRFWLqzBfLGwwwwfW
+common item: z
+lowercase: 26
+
+LINE LENGTH COMPARISON
+J, p, S, n, G, S, G, p, b, G, g, 
+s, W, W, P, H, J, r, d, f, s, T, 
+JpSnGSGpbGgsWWPHJrdfsT
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+M, N, s, R, q, N, N, v, M, Q, D, 
+T, L, W, H, l, f, f, N, H, L, N, 
+MNsRqNNvMQDTLWHlffNHLN
+common item: N
+uppercase: 40
+
+LINE LENGTH COMPARISON
+q, q, m, t, R, z, R, v, C, R, R, Q, D, q, j, q, j, D, m, s, m, R, 
+p, Z, w, S, Z, b, c, w, b, n, C, c, C, S, B, B, n, S, S, n, n, C, 
+qqmtRzRvCRRQDqjqjDmsmRpZwSZbcwbnCcCSBBnSSnnC
+common item: C
+uppercase: 29
+
+LINE LENGTH COMPARISON
+T, W, q, l, q, p, R, q, R, p, t, q, l, R, 
+h, r, m, t, G, G, z, h, b, S, r, S, d, z, 
+TWqlqpRqRptqlRhrmtGGzhbSrSdz
+common item: t
+lowercase: 20
+
+LINE LENGTH COMPARISON
+V, g, s, B, V, M, v, g, V, Z, f, Z, v, P, s, M, V, N, v, f, Z, f, v, V, 
+b, S, P, d, h, F, P, F, h, b, z, L, h, J, d, G, F, J, m, L, h, h, h, L, 
+VgsBVMvgVZfZvPsMVNvfZfvVbSPdhFPFhbzLhJdGFJmLhhhL
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+Q, Z, g, v, Z, g, v, H, w, b, w, H, b, M, s, M, 
+R, l, l, R, j, D, R, D, n, Q, R, q, l, R, j, l, 
+QZgvZgvHwbwHbMsMRllRjDRDnQRqlRjl
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+f, s, P, Q, w, n, H, n, H, L, L, f, n, B, B, n, 
+w, w, G, t, j, T, G, R, W, T, W, T, W, w, h, V, 
+fsPQwnHnHLLfnBBnwwGtjTGRWTWTWwhV
+common item: w
+lowercase: 23
+
+LINE LENGTH COMPARISON
+j, b, l, b, d, j, Z, F, D, M, b, 
+G, l, l, q, T, G, T, t, V, l, q, 
+jblbdjZFDMbGllqTGTtVlq
+common item: l
+lowercase: 12
+
+LINE LENGTH COMPARISON
+g, m, d, M, g, Z, M, b, j, p, Z, D, c, r, r, D, g, d, m, 
+s, z, s, P, L, p, Q, f, p, B, P, P, n, N, Q, N, L, L, z, 
+gmdMgZMbjpZDcrrDgdmszsPLpQfpBPPnNQNLLz
+common item: p
+lowercase: 16
+
+LINE LENGTH COMPARISON
+H, R, s, P, P, G, M, h, L, P, M, r, n, P, c, h, P, 
+S, w, S, t, j, b, S, t, t, S, v, t, H, S, q, Q, w, 
+HRsPPGMhLPMrnPchPSwStjbSttSvtHSqQw
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+d, f, s, C, f, p, C, J, V, J, C, 
+v, d, F, B, F, w, S, t, w, j, j, 
+dfsCfpCJVJCvdFBFwStwjj
+common item: d
+lowercase: 4
+
+LINE LENGTH COMPARISON
+g, T, N, W, m, W, f, T, N, V, Z, V, J, z, Z, W, p, W, J, g, T, p, f, 
+h, n, D, r, M, n, D, c, l, g, D, l, D, r, D, R, n, R, c, M, L, D, s, 
+gTNWmWfTNVZVJzZWpWJgTpfhnDrMnDclgDlDrDRnRcMLDs
+common item: g
+lowercase: 7
+
+LINE LENGTH COMPARISON
+Z, Q, Z, Q, J, M, q, d, w, m, Z, v, q, f, P, m, 
+w, R, j, p, B, B, j, H, j, n, s, h, n, j, t, t, 
+ZQZQJMqdwmZvqfPmwRjpBBjHjnshnjtt
+common item: w
+lowercase: 23
+
+LINE LENGTH COMPARISON
+z, c, T, P, T, L, D, T, F, W, L, G, T, r, T, S, W, P, c, D, S, S, 
+H, j, R, l, h, R, s, D, h, H, s, l, s, l, s, s, B, R, l, j, j, j, 
+zcTPTLDTFWLGTrTSWPcDSSHjRlhRsDhHslslssBRljjj
+common item: D
+uppercase: 30
+
+LINE LENGTH COMPARISON
+T, r, N, F, L, b, T, W, r, G, 
+N, Z, v, m, v, V, Q, P, Q, V, 
+TrNFLbTWrGNZvmvVQPQV
+common item: N
+uppercase: 40
+
+LINE LENGTH COMPARISON
+h, t, f, L, g, m, t, S, 
+L, c, T, W, N, L, c, T, 
+htfLgmtSLcTWNLcT
+common item: L
+uppercase: 38
+
+LINE LENGTH COMPARISON
+s, l, b, H, l, B, B, G, b, q, R, s, b, l, B, H, v, 
+d, N, J, J, c, j, F, F, N, B, T, V, W, W, W, c, n, 
+slbHlBBGbqRsblBHvdNJJcjFFNBTVWWWcn
+common item: B
+uppercase: 28
+
+LINE LENGTH COMPARISON
+b, b, Q, s, H, M, M, b, l, H, r, M, s, G, R, q, v, 
+Q, h, w, C, T, Q, C, w, t, Q, C, z, S, p, f, m, S, 
+bbQsHMMblHrMsGRqvQhwCTQCwtQCzSpfmS
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+z, m, q, d, p, h, m, F, m, S, p, T, z, h, d, q, h, F, m, w, 
+j, j, G, b, t, c, v, D, b, c, G, G, j, l, l, G, Q, j, S, P, 
+zmqdphmFmSpTzhdqhFmwjjGbtcvDbcGGjllGQjSP
+common item: S
+uppercase: 45
+
+LINE LENGTH COMPARISON
+H, J, F, r, M, C, s, V, L, r, H, R, R, M, C, N, r, V, M, V, n, 
+c, t, v, s, t, l, G, c, Q, l, P, t, G, G, j, Q, t, G, l, v, P, 
+HJFrMCsVLrHRRMCNrVMVnctvstlGcQlPtGGjQtGlvP
+common item: s
+lowercase: 19
+
+LINE LENGTH COMPARISON
+R, F, L, H, L, V, W, r, N, g, V, J, 
+z, w, z, w, f, g, f, f, w, d, f, p, 
+RFLHLVWrNgVJzwzwfgffwdfp
+common item: g
+lowercase: 7
+
+LINE LENGTH COMPARISON
+v, d, M, j, S, m, M, M, p, m, M, W, h, R, p, n, d, R, m, Z, n, h, v, 
+H, q, L, p, G, H, c, J, G, G, G, D, L, H, H, L, G, c, f, c, L, f, c, 
+vdMjSmMMpmMWhRpndRmZnhvHqLpGHcJGGGDLHHLGcfcLfc
+common item: p
+lowercase: 16
+
+LINE LENGTH COMPARISON
+l, P, B, w, w, r, s, C, g, 
+L, F, g, g, c, q, q, L, W, 
+lPBwwrsCgLFggcqqLW
+common item: 
+
+LINE LENGTH COMPARISON
+T, W, s, z, s, W, N, B, T, N, 
+d, m, S, R, v, j, b, Z, Z, T, 
+TWszsWNBTNdmSRvjbZZT
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+z, F, l, B, G, p, z, z, z, L, L, N, j, B, 
+w, P, c, w, w, m, c, N, P, f, W, N, Q, n, 
+zFlBGpzzzLLNjBwPcwwmcNPfWNQn
+common item: N
+uppercase: 40
+
+LINE LENGTH COMPARISON
+V, H, S, H, R, J, T, J, D, S, V, V, 
+n, m, c, V, V, P, p, W, m, p, n, f, 
+VHSHRJTJDSVVnmcVVPpWmpnf
+common item: V
+uppercase: 48
+
+LINE LENGTH COMPARISON
+D, M, Z, H, H, r, D, H, H, r, J, r, r, Z, r, S, h, Z, s, H, 
+G, b, M, B, b, F, g, G, j, G, C, g, j, p, F, l, B, z, z, b, 
+DMZHHrDHHrJrrZrShZsHGbMBbFgGjGCgjpFlBzzb
+common item: M
+uppercase: 39
+
+LINE LENGTH COMPARISON
+F, V, M, p, s, v, T, q, v, q, M, s, s, V, s, W, Z, S, r, q, W, F, v, 
+w, l, G, D, G, w, Q, z, w, f, w, Q, Q, N, L, z, D, l, w, l, Z, w, f, 
+FVMpsvTqvqMssVsWZSrqWFvwlGDGwQzwfwQQNLzDlwlZwf
+common item: Z
+uppercase: 52
+
+LINE LENGTH COMPARISON
+h, P, b, g, B, H, h, J, J, c, J, P, 
+w, C, w, D, p, N, l, l, C, C, H, C, 
+hPbgBHhJJcJPwCwDpNllCCHC
+common item: H
+uppercase: 34
+
+LINE LENGTH COMPARISON
+p, n, j, b, B, m, j, g, b, g, 
+m, q, t, S, m, s, T, t, s, F, 
+pnjbBmjgbgmqtSmsTtsF
+common item: m
+lowercase: 13
+
+LINE LENGTH COMPARISON
+D, H, Z, H, m, f, T, m, C, f, j, D, Z, H, M, Z, m, z, f, f, H, H, n, 
+Q, w, w, T, B, d, Q, w, b, S, d, B, G, B, Q, w, h, B, Q, T, Q, w, w, 
+DHZHmfTmCfjDZHMZmzffHHnQwwTBdQwbSdBGBQwhBQTQww
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+c, q, s, t, R, F, W, N, t, L, r, N, F, 
+w, d, V, S, h, l, B, S, l, h, B, R, l, 
+cqstRFWNtLrNFwdVShlBSlhBRl
+common item: R
+uppercase: 44
+
+LINE LENGTH COMPARISON
+S, t, J, W, p, L, p, t, N, W, L, t, J, c, p, q, P, r, F, 
+H, D, j, Z, z, z, v, n, D, D, H, P, C, Z, j, P, v, v, z, 
+StJWpLptNWLtJcpqPrFHDjZzzvnDDHPCZjPvvz
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+h, z, f, f, h, G, V, G, G, h, 
+z, R, q, T, B, L, T, q, H, L, 
+hzffhGVGGhzRqTBLTqHL
+common item: z
+lowercase: 26
+
+LINE LENGTH COMPARISON
+s, F, F, F, s, M, Q, l, w, J, M, s, m, 
+r, B, F, S, N, H, T, H, N, q, r, T, S, 
+sFFFsMQlwJMsmrBFSNHTHNqrTS
+common item: F
+uppercase: 32
+
+LINE LENGTH COMPARISON
+p, b, d, s, J, M, d, J, M, J, b, w, b, m, J, J, 
+t, b, T, t, g, n, f, f, G, g, V, V, C, h, v, D, 
+pbdsJMdJMJbwbmJJtbTtgnffGgVVChvD
+common item: b
+lowercase: 2
+
+LINE LENGTH COMPARISON
+F, v, J, n, F, n, C, p, Q, T, d, d, S, S, m, F, d, F, 
+p, P, P, s, V, h, p, p, D, j, B, z, j, D, V, h, D, V, 
+FvJnFnCpQTddSSmFdFpPPsVhppDjBzjDVhDV
+common item: p
+lowercase: 16
+
+LINE LENGTH COMPARISON
+R, g, Z, M, Z, b, s, g, 
+z, l, D, P, l, h, j, b, 
+RgZMZbsgzlDPlhjb
+common item: b
+lowercase: 2
+
+LINE LENGTH COMPARISON
+c, H, H, H, R, g, R, Z, g, f, H, H, Z, G, Z, f, H, Z, c, L, L, H, 
+r, r, C, r, m, J, C, m, d, d, r, s, v, d, J, s, m, v, F, F, Q, G, 
+cHHHRgRZgfHHZGZfHZcLLHrrCrmJCmddrsvdJsmvFFQG
+common item: G
+uppercase: 33
+
+LINE LENGTH COMPARISON
+d, p, J, D, d, Z, w, L, n, v, d, v, 
+F, m, F, M, m, H, j, s, l, M, L, H, 
+dpJDdZwLnvdvFmFMmHjslMLH
+common item: L
+uppercase: 38
+
+LINE LENGTH COMPARISON
+C, G, C, z, t, g, P, h, W, C, W, h, z, z, z, N, N, P, G, f, r, r, W, f, 
+m, b, b, s, m, m, H, j, F, H, D, M, s, b, H, M, s, j, F, P, j, b, H, m, 
+CGCztgPhWCWhzzzNNPGfrrWfmbbsmmHjFHDMsbHMsjFPjbHm
+common item: P
+uppercase: 42
+
+LINE LENGTH COMPARISON
+r, N, Q, D, G, z, z, h, C, C, f, N, r, z, r, D, z, C, h, 
+T, c, Z, Z, v, Q, c, T, R, J, p, T, w, d, v, Q, p, V, c, 
+rNQDGzzhCCfNrzrDzChTcZZvQcTRJpTwdvQpVc
+common item: Q
+uppercase: 43
+
+LINE LENGTH COMPARISON
+V, p, v, N, G, h, G, H, G, N, h, H, b, P, s, b, V, b, v, 
+f, F, t, L, C, z, S, C, F, S, B, s, C, F, S, F, C, L, B, 
+VpvNGhGHGNhHbPsbVbvfFtLCzSCFSBsCFSFCLB
+common item: s
+lowercase: 19
+
+LINE LENGTH COMPARISON
+M, l, q, J, w, T, n, r, R, R, r, R, n, M, l, Q, M, 
+H, f, H, z, H, z, W, F, W, t, m, T, z, L, W, F, C, 
+MlqJwTnrRRrRnMlQMHfHzHzWFWtmTzLWFC
+common item: T
+uppercase: 46
+
+LINE LENGTH COMPARISON
+l, j, Z, D, D, H, q, q, j, q, R, 
+b, p, N, h, j, N, N, g, c, g, c, 
+ljZDDHqqjqRbpNhjNNgcgc
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+q, r, Q, t, D, z, c, Q, z, b, r, c, f, d, b, q, r, Q, r, t, h, t, 
+s, c, S, s, v, p, v, n, s, S, H, p, T, p, L, p, s, p, m, s, S, s, 
+qrQtDzcQzbrcfdbqrQrthtscSsvpvnsSHpTpLpspmsSs
+common item: c
+lowercase: 3
+
+LINE LENGTH COMPARISON
+C, V, w, N, N, V, R, N, B, 
+S, H, s, L, S, F, B, T, v, 
+CVwNNVRNBSHsLSFBTv
+common item: 
+
+LINE LENGTH COMPARISON
+C, V, V, V, N, Z, j, l, V, l, G, w, l, G, l, l, j, N, l, W, J, V, 
+r, r, f, q, b, P, Q, Q, q, H, q, J, h, h, f, t, b, f, D, J, q, f, 
+CVVVNZjlVlGwlGlljNlWJVrrfqbPQQqHqJhhftbfDJqf
+common item: J
+uppercase: 36
+
+LINE LENGTH COMPARISON
+l, p, m, r, P, D, P, D, j, P, l, m, W, r, V, z, P, z, 
+t, Z, w, F, j, t, F, b, B, n, R, t, Z, b, b, c, R, L, 
+lpmrPDPDjPlmWrVzPztZwFjtFbBnRtZbbcRL
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+d, n, q, J, C, C, g, Q, d, N, 
+q, b, q, R, b, R, b, B, L, t, 
+dnqJCCgQdNqbqRbRbBLt
+common item: q
+lowercase: 17
+
+LINE LENGTH COMPARISON
+Q, G, h, G, d, d, G, C, T, d, M, H, N, T, G, g, s, h, g, J, h, 
+z, v, S, m, W, W, P, S, s, n, p, r, p, P, z, W, z, s, W, l, r, 
+QGhGddGCTdMHNTGgshgJhzvSmWWPSsnprpPzWzsWlr
+common item: s
+lowercase: 19
+
+LINE LENGTH COMPARISON
+h, C, J, H, T, d, J, J, N, v, T, d, S, S, N, s, s, j, v, f, 
+w, g, n, t, w, D, g, t, g, w, D, G, C, t, Z, w, t, R, R, B, 
+hCJHTdJJNvTdSSNssjvfwgntwDgtgwDGCtZwtRRB
+common item: C
+uppercase: 29
+
+LINE LENGTH COMPARISON
+m, b, l, l, F, m, F, M, F, b, M, V, W, W, L, p, b, p, 
+Z, w, w, B, Z, T, Z, n, n, V, w, n, T, g, g, t, D, B, 
+mbllFmFMFbMVWWLpbpZwwBZTZnnVwnTggtDB
+common item: V
+uppercase: 48
+
+LINE LENGTH COMPARISON
+M, m, z, L, Q, p, F, P, T, m, P, 
+z, H, v, f, J, N, N, z, h, N, s, 
+MmzLQpFPTmPzHvfJNNzhNs
+common item: z
+lowercase: 26
+
+LINE LENGTH COMPARISON
+d, z, g, B, w, z, l, g, r, r, B, r, V, L, L, l, w, L, B, g, B, l, g, 
+R, S, c, D, M, M, D, D, s, w, M, s, H, Z, R, G, D, s, Z, G, Z, m, M, 
+dzgBwzlgrrBrVLLlwLBgBlgRScDMMDDswMsHZRGDsZGZmM
+common item: w
+lowercase: 23
+
+LINE LENGTH COMPARISON
+H, P, f, P, b, j, C, F, J, j, C, v, f, n, n, 
+s, j, s, D, D, c, c, c, m, Z, s, R, S, M, c, 
+HPfPbjCFJjCvfnnsjsDDcccmZsRSMc
+common item: j
+lowercase: 10
+
+LINE LENGTH COMPARISON
+h, C, v, H, f, W, P, P, n, v, J, h, P, W, 
+p, q, N, N, h, q, L, q, z, L, q, L, L, d, 
+hCvHfWPPnvJhPWpqNNhqLqzLqLLd
+common item: h
+lowercase: 8
+
+RESULT: 8214
